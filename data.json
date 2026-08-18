@@ -3,43 +3,124 @@
     "id": "thaharah",
     "titleId": "Kitab Thaharah (Bersuci)",
     "titleAr": "كِتَابُ أَحْكَامِ الطَّهَارَةِ",
-    "description": "Kaidah macam-macam air, najis, rukun wudhu, mandi junub, dan tayamum.",
+    "description": "Membahas pembagian air, penyamakan kulit, siwak, wudhu, mandi wajib, tayamum, najis, serta darah wanita.",
     "pasals": [
       {
         "id": "pasal-air",
-        "titleId": "Macam-Macam Air",
-        "titleAr": "فَصْلٌ فِي أَنْوَاعِ الْمِيَاهِ",
-        "arabic": "الْمِيَاهُ الَّتِي يَجُوزُ بِهَا التَّطْهِيرُ سَبْعُ مِيَاهٍ: مَاءُ السَّمَاءِ، وَمَاءُ الْبَحْرِ، وَمَاءُ النَّهْرِ، وَمَاءُ الْبِئْرِ، وَمَاءُ الْعَيْنِ، وَمَاءُ الثَّلْجِ، وَمَاءُ الْبَرَدِ.",
-        "translation": "Air yang boleh digunakan untuk bersuci ada 7 macam: air langit (hujan), air laut, air sungai, air sumur, air mata air, air salju, dan air embun.",
+        "titleId": "1. Macam-Macam Air & Pembagian Hukumnya",
+        "titleAr": "فَصْلٌ فِي أَقْسَامِ الْمِيَاهِ",
+        "arabic": "الْمِيَاهُ الَّتِي يَجُوزُ بِهَا التَّطْهِيرُ سَبْعُ مِيَاهٍ: مَاءُ السَّمَاءِ، وَمَاءُ الْبَحْرِ، وَمَاءُ النَّهْرِ، وَمَاءُ الْبِئْرِ، وَمَاءُ الْعَيْنِ، وَمَاءُ الثَّلْجِ، وَمَاءُ الْبَرَدِ. ثُمَّ الْمِيَاهُ عَلَى أَرْبَعَةِ أَقْسَامٍ: طَاهِرٌ مُطَهِّرٌ غَيْرُ مَكْرُوهٍ، وَطَاهِرٌ مُطَهِّرٌ مَكْرُوهٌ وَهُوَ الْمُشَمَّسُ، وَطَاهِرٌ غَيْرُ مُطَهِّرٍ وَهُوَ الْمَاءُ الْمُسْتَعْمَلُ، وَمَاءٌ نَجِسٌ.",
+        "translation": "Air yang sah digunakan bersuci ada 7: air hujan, air laut, air sungai, air sumur, air mata air, air salju, dan air embun. Kemudian air terbagi menjadi 4 hukum: 1) Suci menyucikan dan tidak makruh (air mutlak), 2) Suci menyucikan namun makruh dipakai di badan (air musyammas), 3) Suci pada dirinya namun tidak menyucikan (air musta'mal & yang berubah karena benda suci), 4) Air bernajis (mutanajjis).",
         "keypoints": [
-          "Air Mutlak: Suci dan menyucikan (tidak makruh).",
-          "Air Musyammas: Suci menyucikan namun makruh dipakai pada badan jika dipanaskan di bawah terik matahari dalam wadah logam berkarat.",
-          "Air Musta'mal: Suci pada zatnya namun tidak dapat digunakan kembali untuk mengangkat hadas.",
-          "Air Mutanajjis: Air yang terkena najis dan volumenya kurang dari dua qullah."
+          "Ukuran 2 qullah setara dengan ± 216 liter (atau wadah kubus 60 cm x 60 cm x 60 cm).",
+          "Air kurang dari 2 qullah langsung menjadi najis jika kejatuhan najis, meskipun rasa, bau, dan warnanya tidak berubah.",
+          "Air 2 qullah atau lebih hanya menjadi najis apabila salah satu sifatnya (bau, rasa, atau warna) berubah akibat najis."
+        ]
+      },
+      {
+        "id": "pasal-kulit-bangkai",
+        "titleId": "2. Penyamakan Kulit Bangkai & Wadah",
+        "titleAr": "فَصْلٌ فِي دِبَاغِ جُلُودِ الْمَيْتَةِ",
+        "arabic": "وَجُلُودُ الْمَيْتَةِ تَطْهُرُ بِالدِّبَاغِ إِلَّا جِلْدَ الْكَلْبِ وَالْخِنْزِيرِ وَمَا تَوَلَّدَ مِنْهُمَا أَوْ مِنْ أَحَدِهِمَا. وَعَظْمُ الْمَيْتَةِ وَشَعْرُهَا نَجِسٌ إِلَّا الآدَمِيَّ. وَلَا يَجُوزُ اسْتِعْمَالُ أَوَانِي الذَّهَبِ وَالْفِضَّةِ.",
+        "translation": "Semua kulit bangkai dapat suci dengan cara disamak, kecuali kulit anjing dan babi serta peranakan dari keduanya atau salah satunya. Tulang dan rambut bangkai berstatus najis kecuali manusia. Diharamkan menggunakan wadah dari emas dan perak.",
+        "keypoints": [
+          "Menyamak wajib menggunakan benda sepat/pahit (seperti daun salam/akar pohon) untuk mengikis lendir dan kotoran busuk.",
+          "Bangkai manusia dan seluruh bagian tubuhnya dihukumi suci (mulia).",
+          "Haram memakai wadah emas/perak untuk makan, minum, dan bersuci bagi laki-laki maupun perempuan."
+        ]
+      },
+      {
+        "id": "pasal-siwak",
+        "titleId": "3. Penggunaan Siwak",
+        "titleAr": "فَصْلٌ فِي اسْتِعْمَالِ السِّوَاكِ",
+        "arabic": "وَالسِّوَاكُ مُسْتَحَبٌّ فِي كُلِّ حَالٍ إِلَّا بَعْدَ الزَّوَالِ لِلصَّائِمِ. وَهُوَ فِي ثَلَاثَةِ مَوَاضِعَ أَشَدُّ اسْتِحْبَابًا: عِنْدَ تَغَيُّرِ الْفَمِ مِنْ أَزْمٍ وَغَيْرِهِ، وَعِنْدَ الْقِيَامِ مِنَ النَّوْمِ، وَعِنْدَ الْقِيَامِ إِلَى الصَّلَاةِ.",
+        "translation": "Bersiwak hukumnya sunnah dalam setiap keadaan kecuali setelah tergelincir matahari (waktu Dzuhur) bagi orang yang berpuasa. Sunnah bersiwak sangat ditekankan pada 3 kondisi: saat bau mulut berubah, bangun dari tidur, dan hendak mendirikan shalat.",
+        "keypoints": [
+          "Bagi orang berpuasa, bersiwak makruh setelah waktu zawal (masuk waktu dzuhur) demi menjaga aroma mulut orang berpuasa.",
+          "Disunnahkan bersiwak menggunakan dahan pohon Arak atau benda kesat yang dapat membersihkan gigi."
         ]
       },
       {
         "id": "pasal-fardhu-wudhu",
-        "titleId": "Fardhu & Rukun Wudhu",
+        "titleId": "4. Fardhu (Rukun) Wudhu",
         "titleAr": "فَصْلٌ فِي فُرُوضِ الْوُضُوءِ",
         "arabic": "وَفُرُوضُ الْوُضُوءِ سِتَّةُ أَشْيَاءَ: النِّيَّةُ عِنْدَ غَسْلِ الْوَجْهِ، وَغَسْلُ الْوَجْهِ، وَغَسْلُ الْيَدَيْنِ إِلَى الْمِرْفَقَيْنِ، وَمَسْحُ بَعْضِ الرَّأْسِ، وَغَسْلُ الرِّجْلَيْنِ إِلَى الْكَعْبَيْنِ، وَالتَّرْتِيبُ عَلَى مَا ذَكَرْنَاهُ.",
-        "translation": "Fardhu wudhu ada 6 perkara: Niat saat membasuh wajah, membasuh seluruh wajah, membasuh kedua tangan sampai siku, mengusap sebagian kepala, membasuh kedua kaki sampai kedua mata kaki, dan tertib sesuai urutan.",
+        "translation": "Fardhu wudhu ada 6 perkara: Niat saat membasuh muka, membasuh wajah, membasuh kedua tangan sampai siku, mengusap sebagian kepala, membasuh kedua kaki sampai mata kaki, dan tertib berurutan.",
         "keypoints": [
-          "Niat wajib dibarengkan saat air pertama kali menyentuh bagian wajah.",
-          "Batasan wajah vertikal: tempat tumbuh rambut hingga ujung dagu; horizontal: antar dua telinga.",
-          "Tertib: rukun harus dikerjakan berurutan tanpa mendahulukan kaki sebelum kepala."
+          "Niat di dalam hati wajib dibarengkan dengan basuhan pertama air ke wajah.",
+          "Batasan wajah: vertikal dari batas tumbuh rambut normal hingga dagu; horizontal antara dua telinga.",
+          "Tertib: tidak boleh membasuh anggota tubuh secara acak."
+        ]
+      },
+      {
+        "id": "pasal-istinja",
+        "titleId": "5. Adab Buang Hajat & Istinja",
+        "titleAr": "فَصْلٌ فِي الِاسْتِنْجَاءِ وَآدَابِ قَضَاءِ الْحَاجَةِ",
+        "arabic": "وَالِاسْتِنْجَاءُ وَاجِبٌ مِنَ الْبَوْلِ وَالْغَائِطِ، وَالأَفْضَلُ أَنْ يَسْتَنْجِيَ بِالأَحْجَارِ ثُمَّ يُتْبِعَهَا بِالْمَاءِ، وَيَجُوزُ أَنْ يَقْتَصِرَ عَلَى الْمَاءِ أَوْ عَلَى ثَلَاثَةِ أَحْجَارٍ يُنَقِّي بِهِنَّ الْمَحَلَّ. وَيَجْتَنِبُ اسْتِقْبَالَ الْقِبْلَةِ وَاسْتِدْبَارَهَا فِي الصَّحْرَاءِ.",
+        "translation": "Istinja hukumnya wajib setelah keluar kencing atau buang air besar. Yang paling utama adalah beristinja dengan batu terlebih dahulu lalu melanjutkannya dengan air. Boleh mencukupkan dengan air saja atau dengan 3 batu yang membersihkan tempat keluarnya kotoran. Wajib menghindari menghadap atau membelakangi kiblat saat buang hajat di tempat terbuka tanpa tabir.",
+        "keypoints": [
+          "Jika memakai batu/tisu kering, disyaratkan najis belum kering dan belum berpindah dari tempat keluarnya.",
+          "Haram buang air kecil atau besar di air yang diam/tergenang (tidak mengalir).",
+          "Makruh buang air di lubang tanah, tempat berteduh manusia, dan di bawah pohon yang sedang berbuah."
         ]
       },
       {
         "id": "pasal-batal-wudhu",
-        "titleId": "Pembatal Wudhu",
+        "titleId": "6. Pembatal-Pembatal Wudhu",
         "titleAr": "فَصْلٌ فِي نَوَاقِضِ الْوُضُوءِ",
-        "arabic": "وَالَّذِي يَنْقُضُ الْوُضُوءَ سِتَّةُ أَشْيَاءَ: مَا خَرَجَ مِنَ السَّبِيلَيْنِ، وَالنَّوْمُ عَلَى غَيْرِ هَيْئَةِ الْمُمَكِّنِ، وَزَوَالُ الْعَقْلِ بِسُكْرٍ أَوْ مَرَضٍ، وَلَمْسُ الرَّجُلِ الْمَرْأَةَ الأَجْنَبِيَّةَ، وَمَسُّ فَرْجِ الآدَمِيِّ، وَمَسُّ حَلْقَةِ دُبُرِهِ.",
-        "translation": "Perkara yang membatalkan wudhu ada 6 perkara: Segala sesuatu yang keluar dari dua jalan (qubul/dubur), tidur yang tidak menetapkan posisi duduk, hilang akal (mabuk/sakit), sentuhan kulit lawan jenis non-mahram tanpa batas, menyentuh kemaluan anak adam, dan menyentuh lingkaran dubur.",
+        "arabic": "وَالَّذِي يَنْقُضُ الْوُضُوءَ سِتَّةُ أَشْيَاءَ: مَا خَرَجَ مِنَ السَّبِيلَيْنِ، وَالنَّوْمُ عَلَى غَيْرِ هَيْئَةِ الْمُمَكِّنِ، وَزَوَالُ الْعَقْلِ بِسُكْرٍ أَوْ مَرَضٍ، وَلَمْسُ الرَّجُلِ الْمَرْأَةَ الأَجْنَبِيَّةَ مِنْ غَيْرِ حَائِلٍ، وَمَسُّ فَرْجِ الآدَمِيِّ بِبَطْنِ الْكَفِّ، وَمَسُّ حَلْقَةِ دُبُرِهِ عَلَى الْجَدِيدِ.",
+        "translation": "Hal yang membatalkan wudhu ada 6: Sesuatu yang keluar dari qubul atau dubur, tidur yang posisinya tidak menetapkan pantat, hilang akal (mabuk/gila/pingsan), persentuhan kulit laki-laki dan perempuan bukan mahram tanpa penghalang, menyentuh kemaluan manusia dengan telapak tangan, dan menyentuh lingkaran dubur menurut qaul jadid.",
         "keypoints": [
-          "Tidur sambil duduk bersila rapat di lantai tidak membatalkan wudhu.",
-          "Sentuhan tidak membatalkan jika terhalang kain atau dengan mahram sendiri.",
-          "Batal menyentuh kemaluan hanya jika menggunakan telapak tangan bagian dalam."
+          "Tidur sambil duduk rapat di lantai tidak membatalkan wudhu.",
+          "Sentuhan batal jika menyentuh kulit non-mahram yang sama-sama mencapai batas usia syahwat.",
+          "Menyentuh menggunakan punggung tangan tidak membatalkan wudhu."
+        ]
+      },
+      {
+        "id": "pasal-mandi-wajib",
+        "titleId": "7. Mandi Wajib (Janabah)",
+        "titleAr": "فَصْلٌ فِي مُوجِبَاتِ الْغُسْلِ وَفُرُوضِهِ",
+        "arabic": "وَالَّذِي يُوجِبُ الْغُسْلَ سِتَّةُ أَشْيَاءَ: ثَلَاثَةٌ تَشْتَرِكُ فِيهَا الرِّجَالُ وَالنِّسَاءُ: الْتِقَاءُ الْخِتَانَيْنِ، وَإِنْزَالُ الْمَنِيِّ، وَالْمَوْتُ. وَثَلَاثَةٌ تَخْتَصُّ بِهَا النِّسَاءُ: الْحَيْضُ، وَالنِّفَاسُ، وَالْوِلَادَةُ. وَفُرُوضُ الْغُسْلِ اثْنَانِ: النِّيَّةُ، وَتَعْمِيمُ الْجَسَدِ بِالْمَاءِ.",
+        "translation": "Perkara yang mewajibkan mandi ada 6. Tiga perkara dialami laki-laki dan perempuan: bertemunya dua kemaluan (jimak), keluarnya mani, dan kematian. Tiga perkara khusus wanita: haid, nifas, dan melahirkan. Adapun fardhu mandi ada 2: niat dan meratakan air ke seluruh rambut dan kulit tubuh.",
+        "keypoints": [
+          "Mani dikenali dari salah satu 3 tanda: aroma seperti mayang kurma/adonan tepung saat basah, memancar (tadhaffuq), atau merasakan kenikmatan saat keluar.",
+          "Wajib menyampaikan air ke seluruh sela-sela lipatan kulit dan pangkal rambut tanpa terkecuali."
+        ]
+      },
+      {
+        "id": "pasal-tayamum",
+        "titleId": "8. Syarat & Rukun Tayamum",
+        "titleAr": "فَصْلٌ فِي التَّيَمُّمِ",
+        "arabic": "وَشَرَائِطُ التَّيَمُّمِ خَمْسَةُ أَشْيَاءَ: وُجُودُ الْعُذْرِ بِسَفَرٍ أَوْ مَرَضٍ، وَدُخُولُ وَقْتِ الصَّلَاةِ، وَطَلَبُ الْمَاءِ، وَتَعَذُّرُ اسْتِعْمَالِهِ، وَالتُّرَابُ الطَّاهِرُ الَّذِي لَهُ غُبَارٌ. وَفُرُوضُهُ أَرْبَعَةٌ: النِّيَّةُ، وَمَسْحُ الْوَجْهِ، وَمَسْحُ الْيَدَيْنِ مَعَ الْمِرْفَقَيْنِ، وَالتَّرْتِيبُ.",
+        "translation": "Syarat tayamum ada 5: Adanya uzur karena bepergian atau sakit, sudah masuk waktu shalat, telah berusaha mencari air, tidak dapat menggunakan air, dan menggunakan debu suci yang berdebu. Rukun tayamum ada 4: Niat, mengusap wajah, mengusap kedua tangan sampai siku, dan tertib.",
+        "keypoints": [
+          "Tayamum tidak boleh dilakukan sebelum waktu shalat tiba.",
+          "Satu kali tayamum hanya berlaku untuk satu kali shalat fardhu dan boleh untuk beberapa kali shalat sunnah sepuasnya.",
+          "Debu yang digunakan harus suci, tidak basah, dan belum pernah dipakai (musta'mal)."
+        ]
+      },
+      {
+        "id": "pasal-najis",
+        "titleId": "9. Macam-Macam Najis & Cara Menyucikannya",
+        "titleAr": "فَصْلٌ فِي إِزَالَةِ النَّجَاسَةِ",
+        "arabic": "وَكُلُّ مَائِعٍ خَرَجَ مِنَ السَّبِيلَيْنِ نَجِسٌ إِلَّا الْمَنِيَّ. وَغَسْلُ جَمِيعِ الأَبْوَالِ وَالأَرْوَاثِ وَاجِبٌ إِلَّا بَوْلَ الصَّبِيِّ الَّذِي لَمْ يَأْكُلِ الطَّعَامَ فَإِنَّهُ يَطْهُرُ بِرَشِّ الْمَاءِ عَلَيْهِ. وَنَجَاسَةُ الْكَلْبِ وَالْخِنْزِيرِ تُغْسَلُ سَبْعَ مَرَّاتٍ إِحْدَاهُنَّ بِتُرَابٍ.",
+        "translation": "Setiap cairan yang keluar dari dua jalan dihukumi najis kecuali air mani. Mencuci kencing dan kotoran wajib, kecuali kencing bayi laki-laki yang belum makan selain ASI maka cukup dipercikkan air secara merata. Najis mughalladhah (anjing/babi) wajib dibasuh 7 kali dan salah satunya dicampur debu suci.",
+        "keypoints": [
+          "Najis Mukhaffafah (Ringan): Kencing bayi laki-laki berusia di bawah 2 tahun yang murni hanya minum ASI.",
+          "Najis Mutawassithah (Sedang): Darah, nanah, muntah, kotoran hewan/manusia; disucikan hingga hilang warna, bau, dan rasanya.",
+          "Najis Mughalladhah (Berat): Air liur/kotoran/tubuh anjing atau babi; disucikan 7 basuhan dan salah satunya dengan tanah/debu."
+        ]
+      },
+      {
+        "id": "pasal-haid-nifas",
+        "titleId": "10. Darah Haid, Nifas, & Istihadhah",
+        "titleAr": "فَصْلٌ فِي الْحَيْضِ وَالنِّفَاسِ وَالِاسْتِحَاضَةِ",
+        "arabic": "وَأَقَلُّ الْحَيْضِ يَوْمٌ وَلَيْلَةٌ، وَأَكْثَرُهُ خَمْسَةَ عَشَرَ يَوْمًا، وَغَالِبُهُ سِتٌّ أَوْ سَبْعٌ. وَأَقَلُّ النِّفَاسِ لَحْظَةٌ، وَأَكْثَرُهُ سِتُّونَ يَوْمًا، وَغَالِبُهُ أَرْبَعُونَ يَوْمًا. وَيَحْرُمُ بِالْحَيْضِ ثَمَانِيَةُ أَشْيَاءَ: الصَّلَاةُ، وَالصَّوْمُ، وَقِرَاءَةُ الْقُرْآنِ، وَمَسُّ الْمُصْحَفِ، وَدُخُولُ الْمَسْجِدِ، وَالطَّوَافُ، وَالْوَطْءُ، وَالِاسْتِمْتَاعُ بِمَا بَيْنَ السُّرَّةِ وَالرُّكْبَةِ.",
+        "translation": "Masa minimal haid adalah 1 hari 1 malam (24 jam), maksimal 15 hari, dan umumnya 6 atau 7 hari. Masa minimal nifas adalah sekejap (lahzhah), maksimal 60 hari, dan umumnya 40 hari. Diharamkan bagi wanita haid 8 hal: Shalat, puasa, membaca Al-Qur'an (dengan niat tilawah), menyentuh mushaf, masuk/diam di masjid, thawaf, jimak, dan bersenang-senang di antara pusar dan lutut.",
+        "keypoints": [
+          "Masa suci minimal antara dua siklus haid adalah 15 hari.",
+          "Darah yang keluar melebihi batas 15 hari dihukumi sebagai darah istihadhah (penyakit) dan tetap wajib shalat/puasa.",
+          "Haid menggugurkan kewajiban shalat tanpa perlu diqadha, tetapi wajib mengqadha puasa fardhu Ramadhan."
         ]
       }
     ]
@@ -48,7 +129,7 @@
     "id": "shalat",
     "titleId": "Kitab Shalat",
     "titleAr": "كِتَابُ أَحْكَامِ الصَّلَاةِ",
-    "description": "Syarat wajib, sah, rukun 18 perkara, dan ketentuan shalat berjamaah.",
+    "description": "Syarat sah, rukun 18 perkara, dan ketentuan waktu pelaksanaan shalat.",
     "pasals": [
       {
         "id": "pasal-syarat-shalat",
