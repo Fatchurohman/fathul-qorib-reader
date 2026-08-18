@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fathul Qarib - Interactive Modern Reader</title>
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Ambient Glow Background -->
+  <div class="ambient-glow glow-top"></div>
+  <div class="ambient-glow glow-bottom"></div>
+
+  <header class="header">
+    <div class="container">
+      <div class="header-main">
+        <div class="brand-group">
+          <div class="brand-title">
+            <span class="brand-icon">📚</span>
+            <h1>Fathul Qarib Reader</h1>
+          </div>
+          
+          <!-- Identity Badge -->
+          <div class="dev-badge">
+            <span class="status-pulse"></span>
+            <span class="dev-text">developer : <strong>fatur62</strong></span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Search Component -->
+      <div class="search-container">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="searchInput" class="search-input" placeholder="Cari bab, pasal, atau kata kunci (contoh: wudhu, air, shalat)..." autocomplete="off">
+      </div>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <div class="container">
+      <nav id="breadcrumb" class="breadcrumb" aria-label="Navigasi"></nav>
+      <section id="contentArea" aria-live="polite"></section>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-content">
+      <p>© 2026 Fathul Qarib Interactive Engine • Zero Cost GitHub Pages Ready</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
