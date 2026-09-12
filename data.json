@@ -24,9 +24,9 @@
         "arabic": "وَجُلُودُ الْمَيْتَةِ تَطْهُرُ بِالدِّبَاغِ إِلَّا جِلْدَ الْكَلْبِ وَالْخِنْزِيرِ وَمَا تَوَلَّدَ مِنْهُمَا أَوْ مِنْ أَحَدِهِمَا. وَعَظْمُ الْمَيْتَةِ وَشَعْرُهَا نَجِسٌ إِلَّا الآدَمِيَّ. وَلَا يَجُوزُ اسْتِعْمَالُ أَوَانِي الذَّهَبِ وَالْفِضَّةِ.",
         "translation": "Semua kulit bangkai dapat suci dengan cara disamak, kecuali kulit anjing dan babi serta peranakan dari keduanya atau salah satunya. Tulang dan rambut bangkai berstatus najis kecuali manusia. Diharamkan menggunakan wadah dari emas dan perak.",
         "keypoints": [
-          "Menyamak wajib menggunakan benda sepat/pahit (seperti daun salam/akar pohon) untuk mengikis lendir dan kotoran busuk.",
-          "Bangkai manusia dan seluruh bagian tubuhnya dihukumi suci (mulia).",
-          "Haram memakai wadah emas/perak untuk makan, minum, dan bersuci bagi laki-laki maupun perempuan."
+          "Menyamak wajib menggunakan benda sepat/pahit untuk mengikis lendir dan kotoran busuk.",
+          "Bangkai manusia dan seluruh bagian tubuhnya dihukumi suci.",
+          "Haram memakai wadah emas/perak untuk makan, minum, dan bersuci."
         ]
       },
       {
@@ -36,7 +36,7 @@
         "arabic": "وَالسِّوَاكُ مُسْتَحَبٌّ فِي كُلِّ حَالٍ إِلَّا بَعْدَ الزَّوَالِ لِلصَّائِمِ. وَهُوَ فِي ثَلَاثَةِ مَوَاضِعَ أَشَدُّ اسْتِحْبَابًا: عِنْدَ تَغَيُّرِ الْفَمِ مِنْ أَزْمٍ وَغَيْرِهِ، وَعِنْدَ الْقِيَامِ مِنَ النَّوْمِ، وَعِنْدَ الْقِيَامِ إِلَى الصَّلَاةِ.",
         "translation": "Bersiwak hukumnya sunnah dalam setiap keadaan kecuali setelah tergelincir matahari (waktu Dzuhur) bagi orang yang berpuasa. Sunnah bersiwak sangat ditekankan pada 3 kondisi: saat bau mulut berubah, bangun dari tidur, dan hendak mendirikan shalat.",
         "keypoints": [
-          "Bagi orang berpuasa, bersiwak makruh setelah waktu zawal (masuk waktu dzuhur) demi menjaga aroma mulut orang berpuasa.",
+          "Bagi orang berpuasa, bersiwak makruh setelah waktu zawal demi menjaga aroma mulut orang berpuasa.",
           "Disunnahkan bersiwak menggunakan dahan pohon Arak atau benda kesat yang dapat membersihkan gigi."
         ]
       },
@@ -59,9 +59,9 @@
         "arabic": "وَالِاسْتِنْجَاءُ وَاجِبٌ مِنَ الْبَوْلِ وَالْغَائِطِ، وَالأَفْضَلُ أَنْ يَسْتَنْجِيَ بِالأَحْجَارِ ثُمَّ يُتْبِعَهَا بِالْمَاءِ، وَيَجُوزُ أَنْ يَقْتَصِرَ عَلَى الْمَاءِ أَوْ عَلَى ثَلَاثَةِ أَحْجَارٍ يُنَقِّي بِهِنَّ الْمَحَلَّ. وَيَجْتَنِبُ اسْتِقْبَالَ الْقِبْلَةِ وَاسْتِدْبَارَهَا فِي الصَّحْرَاءِ.",
         "translation": "Istinja hukumnya wajib setelah keluar kencing atau buang air besar. Yang paling utama adalah beristinja dengan batu terlebih dahulu lalu melanjutkannya dengan air. Boleh mencukupkan dengan air saja atau dengan 3 batu yang membersihkan tempat keluarnya kotoran. Wajib menghindari menghadap atau membelakangi kiblat saat buang hajat di tempat terbuka tanpa tabir.",
         "keypoints": [
-          "Jika memakai batu/tisu kering, disyaratkan najis belum kering dan belum berpindah dari tempat keluarnya.",
-          "Haram buang air kecil atau besar di air yang diam/tergenang (tidak mengalir).",
-          "Makruh buang air di lubang tanah, tempat berteduh manusia, dan di bawah pohon yang sedang berbuah."
+          "Jika memakai batu/tisu kering, disyaratkan najis belum kering dan belum berpindah tempat.",
+          "Haram buang air kecil/besar di air yang diam/tergenang.",
+          "Makruh buang air di lubang tanah, tempat berteduh, dan di bawah pohon berbuah."
         ]
       },
       {
@@ -72,7 +72,7 @@
         "translation": "Hal yang membatalkan wudhu ada 6: Sesuatu yang keluar dari qubul atau dubur, tidur yang posisinya tidak menetapkan pantat, hilang akal (mabuk/gila/pingsan), persentuhan kulit laki-laki dan perempuan bukan mahram tanpa penghalang, menyentuh kemaluan manusia dengan telapak tangan, dan menyentuh lingkaran dubur menurut qaul jadid.",
         "keypoints": [
           "Tidur sambil duduk rapat di lantai tidak membatalkan wudhu.",
-          "Sentuhan batal jika menyentuh kulit non-mahram yang sama-sama mencapai batas usia syahwat.",
+          "Sentuhan batal jika menyentuh kulit non-mahram yang sama-sama mencapai usia syahwat.",
           "Menyentuh menggunakan punggung tangan tidak membatalkan wudhu."
         ]
       },
@@ -83,8 +83,8 @@
         "arabic": "وَالَّذِي يُوجِبُ الْغُسْلَ سِتَّةُ أَشْيَاءَ: ثَلَاثَةٌ تَشْتَرِكُ فِيهَا الرِّجَالُ وَالنِّسَاءُ: الْتِقَاءُ الْخِتَانَيْنِ، وَإِنْزَالُ الْمَنِيِّ، وَالْمَوْتُ. وَثَلَاثَةٌ تَخْتَصُّ بِهَا النِّسَاءُ: الْحَيْضُ، وَالنِّفَاسُ، وَالْوِلَادَةُ. وَفُرُوضُ الْغُسْلِ اثْنَانِ: النِّيَّةُ، وَتَعْمِيمُ الْجَسَدِ بِالْمَاءِ.",
         "translation": "Perkara yang mewajibkan mandi ada 6. Tiga perkara dialami laki-laki dan perempuan: bertemunya dua kemaluan (jimak), keluarnya mani, dan kematian. Tiga perkara khusus wanita: haid, nifas, dan melahirkan. Adapun fardhu mandi ada 2: niat dan meratakan air ke seluruh rambut dan kulit tubuh.",
         "keypoints": [
-          "Mani dikenali dari salah satu 3 tanda: aroma seperti mayang kurma/adonan tepung saat basah, memancar (tadhaffuq), atau merasakan kenikmatan saat keluar.",
-          "Wajib menyampaikan air ke seluruh sela-sela lipatan kulit dan pangkal rambut tanpa terkecuali."
+          "Mani dikenali dari aroma seperti adonan tepung saat basah, memancar, atau nikmat saat keluar.",
+          "Wajib menyampaikan air ke seluruh sela-sela lipatan kulit dan pangkal rambut."
         ]
       },
       {
@@ -95,7 +95,7 @@
         "translation": "Syarat tayamum ada 5: Adanya uzur karena bepergian atau sakit, sudah masuk waktu shalat, telah berusaha mencari air, tidak dapat menggunakan air, dan menggunakan debu suci yang berdebu. Rukun tayamum ada 4: Niat, mengusap wajah, mengusap kedua tangan sampai siku, dan tertib.",
         "keypoints": [
           "Tayamum tidak boleh dilakukan sebelum waktu shalat tiba.",
-          "Satu kali tayamum hanya berlaku untuk satu kali shalat fardhu dan boleh untuk beberapa kali shalat sunnah sepuasnya.",
+          "Satu kali tayamum hanya berlaku untuk satu kali shalat fardhu.",
           "Debu yang digunakan harus suci, tidak basah, dan belum pernah dipakai (musta'mal)."
         ]
       },
@@ -106,9 +106,9 @@
         "arabic": "وَكُلُّ مَائِعٍ خَرَجَ مِنَ السَّبِيلَيْنِ نَجِسٌ إِلَّا الْمَنِيَّ. وَغَسْلُ جَمِيعِ الأَبْوَالِ وَالأَرْوَاثِ وَاجِبٌ إِلَّا بَوْلَ الصَّبِيِّ الَّذِي لَمْ يَأْكُلِ الطَّعَامَ فَإِنَّهُ يَطْهُرُ بِرَشِّ الْمَاءِ عَلَيْهِ. وَنَجَاسَةُ الْكَلْبِ وَالْخِنْزِيرِ تُغْسَلُ سَبْعَ مَرَّاتٍ إِحْدَاهُنَّ بِتُرَابٍ.",
         "translation": "Setiap cairan yang keluar dari dua jalan dihukumi najis kecuali air mani. Mencuci kencing dan kotoran wajib, kecuali kencing bayi laki-laki yang belum makan selain ASI maka cukup dipercikkan air secara merata. Najis mughalladhah (anjing/babi) wajib dibasuh 7 kali dan salah satunya dicampur debu suci.",
         "keypoints": [
-          "Najis Mukhaffafah (Ringan): Kencing bayi laki-laki berusia di bawah 2 tahun yang murni hanya minum ASI.",
-          "Najis Mutawassithah (Sedang): Darah, nanah, muntah, kotoran hewan/manusia; disucikan hingga hilang warna, bau, dan rasanya.",
-          "Najis Mughalladhah (Berat): Air liur/kotoran/tubuh anjing atau babi; disucikan 7 basuhan dan salah satunya dengan tanah/debu."
+          "Najis Mukhaffafah (Ringan): Kencing bayi laki-laki di bawah 2 tahun yang murni hanya minum ASI.",
+          "Najis Mutawassithah (Sedang): Darah, nanah, muntah, kotoran; disucikan hingga hilang warna, bau, dan rasa.",
+          "Najis Mughalladhah (Berat): Anjing/babi; disucikan 7 basuhan dan salah satunya dengan tanah/debu."
         ]
       },
       {
@@ -116,11 +116,11 @@
         "titleId": "10. Darah Haid, Nifas, & Istihadhah",
         "titleAr": "فَصْلٌ فِي الْحَيْضِ وَالنِّفَاسِ وَالِاسْتِحَاضَةِ",
         "arabic": "وَأَقَلُّ الْحَيْضِ يَوْمٌ وَلَيْلَةٌ، وَأَكْثَرُهُ خَمْسَةَ عَشَرَ يَوْمًا، وَغَالِبُهُ سِتٌّ أَوْ سَبْعٌ. وَأَقَلُّ النِّفَاسِ لَحْظَةٌ، وَأَكْثَرُهُ سِتُّونَ يَوْمًا، وَغَالِبُهُ أَرْبَعُونَ يَوْمًا. وَيَحْرُمُ بِالْحَيْضِ ثَمَانِيَةُ أَشْيَاءَ: الصَّلَاةُ، وَالصَّوْمُ، وَقِرَاءَةُ الْقُرْآنِ، وَمَسُّ الْمُصْحَفِ، وَدُخُولُ الْمَسْجِدِ، وَالطَّوَافُ، وَالْوَطْءُ، وَالِاسْتِمْتَاعُ بِمَا بَيْنَ السُّرَّةِ وَالرُّكْبَةِ.",
-        "translation": "Masa minimal haid adalah 1 hari 1 malam (24 jam), maksimal 15 hari, dan umumnya 6 atau 7 hari. Masa minimal nifas adalah sekejap (lahzhah), maksimal 60 hari, dan umumnya 40 hari. Diharamkan bagi wanita haid 8 hal: Shalat, puasa, membaca Al-Qur'an (dengan niat tilawah), menyentuh mushaf, masuk/diam di masjid, thawaf, jimak, dan bersenang-senang di antara pusar dan lutut.",
+        "translation": "Masa minimal haid adalah 1 hari 1 malam (24 jam), maksimal 15 hari, dan umumnya 6 atau 7 hari. Masa minimal nifas adalah sekejap, maksimal 60 hari, dan umumnya 40 hari. Diharamkan bagi wanita haid 8 hal: Shalat, puasa, membaca Al-Qur'an (dengan niat tilawah), menyentuh mushaf, masuk/diam di masjid, thawaf, jimak, dan bersenang-senang di antara pusar dan lutut.",
         "keypoints": [
           "Masa suci minimal antara dua siklus haid adalah 15 hari.",
-          "Darah yang keluar melebihi batas 15 hari dihukumi sebagai darah istihadhah (penyakit) dan tetap wajib shalat/puasa.",
-          "Haid menggugurkan kewajiban shalat tanpa perlu diqadha, tetapi wajib mengqadha puasa fardhu Ramadhan."
+          "Darah yang keluar melebihi batas 15 hari dihukumi sebagai darah istihadhah.",
+          "Haid menggugurkan kewajiban shalat tanpa perlu diqadha, tetapi wajib mengqadha puasa Ramadhan."
         ]
       }
     ]
@@ -128,7 +128,7 @@
   {
     "id": "shalat",
     "titleId": "Kitab Shalat",
-    "titleAr": "كِتَابُ أَحْكَامِ الصَّلَاةِ",
+    "titleAr": "كِتَابُ أَحْكامِ الصَّلَاةِ",
     "description": "Membahas waktu-waktu shalat, syarat sah, rukun 18 perkara, jamaah, jamak qashar, shalat jumat, dan jenazah.",
     "pasals": [
       {
@@ -136,10 +136,10 @@
         "titleId": "1. Waktu-Waktu Shalat Fardhu",
         "titleAr": "فَصْلٌ فِي مَوَاقِيتِ الصَّلَاةِ",
         "arabic": "الصَّلَاةُ الْمَفْرُوضَةُ خَمْسٌ: الظُّهْرُ، وَأَوَّلُ وَقْتِهَا زَوَالُ الشَّمْسِ، وَآخِرُهُ إِذَا صَارَ ظِلُّ كُلِّ شَيْءٍ مِثْلَهُ بَعْدَ فَيْءِ الزَّوَالِ. وَالْعَصْرُ، وَأَوَّلُ وَقْتِهَا الزِّيَادَةُ عَلَى ظِلِّ الْمِثْلِ، وَآخِرُهُ غُرُوبُ الشَّمْسِ. وَالْمَغْرِبُ، وَوَقْتُهَا وَاحِدٌ وَهُوَ غُرُوبُ الشَّمْسِ وَبِمِقْدَارِ مَا يَتَطَهَّرُ وَيَسْتُرُ وَيُؤَذِّنُ وَيُقِيمُ وَيُصَلِّي خَمْسَ رَكَعَاتٍ. وَالْعِشَاءُ، وَأَوَّلُ وَقْتِهَا إِذَا غَابَ الشَّفَقُ الأَحْمَرُ، وَآخِرُهُ طُلُوعُ الْفَجْرِ الصَّادِقِ. وَالصُّبْحُ، وَأَوَّلُ وَقْتِهَا طُلُوعُ الْفَجْرِ الصَّادِقِ، وَآخِرُهُ طُلُوعُ الشَّمْسِ.",
-        "translation": "Shalat fardhu ada 5 waktu: 1) Dzuhur: awal waktunya sejak tergelincir matahari, akhirnya saat bayangan benda sama panjang dengan aslinya (ditambah bayangan saat zawal). 2) Ashar: awal waktunya saat bayangan melebihi panjang benda, akhirnya saat terbenam matahari. 3) Maghrib: waktunya satu, yaitu sejak terbenam matahari hingga cukup untuk bersuci, menutup aurat, adzan, iqamah, dan shalat 5 rakaat (menurut qaul jadid). 4) Isya: awal waktunya sejak hilangnya mega merah di barat, akhirnya hingga terbit fajar shadiq. 5) Subuh: awal waktunya terbit fajar shadiq, akhirnya terbit matahari.",
+        "translation": "Shalat fardhu ada 5 waktu: Dzuhur, Ashar, Maghrib, Isya, dan Subuh.",
         "keypoints": [
-          "Waktu Ikhtiyar adalah waktu utama shalat sebelum mendekati batas darurat/akhir waktu.",
-          "Fajar Shadiq adalah cahaya putih yang membentang horizontal di ufuk timur penanda masuknya Subuh dan batas imsak."
+          "Waktu Ikhtiyar adalah waktu utama shalat sebelum mendekati batas darurat.",
+          "Fajar Shadiq adalah cahaya putih horizontal penanda masuknya waktu Subuh."
         ]
       },
       {
@@ -147,11 +147,10 @@
         "titleId": "2. Syarat Wajib & Sah Shalat",
         "titleAr": "فَصْلٌ فِي شَرَائِطِ الصَّلَاةِ",
         "arabic": "وَشَرَائِطُ وُجُوبِ الصَّلَاةِ ثَلَاثَةُ أَشْيَاءَ: الإِسْلَامُ، وَالْبُلُوغُ، وَالْعَقْلُ. وَشَرَائِطُ الصَّلَاةِ قَبْلَ الدُّخُولِ فِيهَا خَمْسَةُ أَشْيَاءَ: طَهَارَةُ الأَعْضَاءِ مِنَ الْحَدَثِ وَالنَّجَسِ، وَسَتْرُ الْعَوْرَةِ بِلِبَاسٍ طَاهِرٍ، وَالْوُقُوفُ عَلَى مَكَانٍ طَاهِرٍ، وَالْعِلْمُ بِدُخُولِ الْوَقْتِ، وَاسْتِقْبَالُ الْقِبْلَةِ.",
-        "translation": "Syarat wajib shalat ada 3: Islam, baligh, dan berakal. Sedangkan syarat sah shalat ada 5: Suci badan dari hadas dan najis, menutup aurat dengan pakaian suci, berdiri di tempat yang suci, mengetahui masuknya waktu shalat, dan menghadap kiblat.",
+        "translation": "Syarat wajib shalat ada 3: Islam, baligh, dan berakal. Syarat sah shalat ada 5: Suci badan dari hadas dan najis, menutup aurat, berdiri di tempat suci, tahu masuknya waktu, dan menghadap kiblat.",
         "keypoints": [
-          "Aurat laki-laki: anggota tubuh antara pusar dan lutut.",
-          "Aurat perempuan: seluruh tubuh kecuali wajah dan kedua telapak tangan.",
-          "Menghadap kiblat boleh ditinggalkan dalam dua keadaan: Shalat Khauf (kondisi perang genting) dan Shalat Sunnah di atas kendaraan saat bepergian."
+          "Aurat laki-laki: antara pusar dan lutut.",
+          "Aurat perempuan: seluruh tubuh kecuali wajah dan kedua telapak tangan."
         ]
       },
       {
@@ -159,22 +158,21 @@
         "titleId": "3. Rukun-Rukun Shalat (18 Perkara)",
         "titleAr": "فَصْلٌ فِي أَرْكَانِ الصَّلَاةِ",
         "arabic": "وَأَرْكَانُ الصَّلَاةِ ثَمَانِيَةَ عَشَرَ رُكْنًا: النِّيَّةُ، وَتَكْبِيرَةُ الإِحْرَامِ، وَالْقِيَامُ مَعَ الْقُدْرَةِ، وَقِرَاءَةُ الْفَاتِحَةِ وَبِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ آيَةٌ مِنْهَا، وَالرُّكُوعُ، وَالطُّمَأْنِينَةُ فِيهِ، وَالرَّفْعُ وَالِاعْتِدَالُ، وَالطُّمَأْنِينَةُ فِيهِ، وَالسُّجُودُ، وَالطُّمَأْنِينَةُ فِيهِ، وَالْجُلُوسُ بَيْنَ السَّجْدَتَيْنِ، وَالطُّمَأْنِينَةُ فِيهِ، وَالْجُلُوسُ الأَخِيرُ، وَالتَّشَهُّدُ فِيهِ، وَالصَّلَاةُ عَلَى النَّبِيِّ ﷺ فِيهِ، وَالتَّسْلِيمَةُ الأُولَى، وَنِيَّةُ الْخُرُوجِ مِنَ الصَّلَاةِ، وَتَرْتِيبُ الأَرْكَانِ.",
-        "translation": "Rukun shalat ada 18: 1) Niat, 2) Takbiratul Ihram, 3) Berdiri bagi yang mampu, 4) Membaca Al-Fatihah (Basmalah termasuk salah satu ayatnya), 5) Ruku', 6) Tuma'ninah dalam ruku', 7) I'tidal, 8) Tuma'ninah dalam i'tidal, 9) Sujud dua kali, 10) Tuma'ninah dalam sujud, 11) Duduk antara dua sujud, 12) Tuma'ninah dalam duduk, 13) Duduk tasyahud akhir, 14) Membaca tasyahud akhir, 15) Bershalawat kepada Nabi SAW di tasyahud akhir, 16) Salam pertama, 17) Niat keluar dari shalat, 18) Tertib sesuai urutan.",
+        "translation": "Rukun shalat ada 18: Niat, Takbiratul Ihram, Berdiri bagi yang mampu, Membaca Al-Fatihah, Ruku', Tuma'ninah ruku', I'tidal, Tuma'ninah i'tidal, Sujud dua kali, Tuma'ninah sujud, Duduk antara dua sujud, Tuma'ninah duduk, Duduk tasyahud akhir, Membaca tasyahud akhir, Shalawat kepada Nabi SAW, Salam pertama, Niat keluar shalat, dan Tertib.",
         "keypoints": [
           "Basmalah merupakan bagian utuh dari surat Al-Fatihah dalam mazhab Syafi'i.",
-          "Tuma'ninah adalah diamnya seluruh anggota badan sejenak sekadar durasi membaca 'Subhanallah'.",
-          "Salam kedua hukumnya sunnah, sedangkan salam pertama adalah rukun sahnya shalat."
+          "Tuma'ninah adalah diamnya seluruh anggota badan sejenak sekadar durasi membaca 'Subhanallah'."
         ]
       },
       {
         "id": "pasal-sunnah-shalat",
         "titleId": "4. Sunnah Ab'adh & Hai'at Shalat",
         "titleAr": "فَصْلٌ فِي أَبْعَاضِ الصَّلَاةِ وَهَيْئَاتِهَا",
-        "arabic": "وَسُنَنُهَا قَبْلَ الدُّخُولِ فِيهَا شَيْئَانِ: الأَذَانُ وَالإِقَامَةُ. وَبَعْدَ الدُّخُولِ فِيهَا شَيْئَانِ: التَّشَهُّدُ الأَوَّلُ، وَالْقُنُوتُ فِي الصُّبْحِ وَفِي الْوِتْرِ فِي النِّصْفِ الثَّانِي مِنْ شَهْرِ رَمَضَانَ. وَهَيْئَاتُهَا خَمْسَ عَشْرَةَ خَصْلَةً: رَفْعُ الْيَدَيْنِ عِنْدَ تَكْبِيرَةِ الإِحْرَامِ، وَوَضْعُ الْيَمِينِ عَلَى الشِّمَالِ، وَدُعَاءُ التَّوَجُّهِ...",
-        "translation": "Sunnah shalat terbagi dua: Sunnah Ab'adh (jika tertinggal disunnahkan sujud sahwi), yaitu tasyahud awal serta qunut pada shalat Subuh dan witir paruh akhir Ramadhan. Sunnah Hai'at (tidak perlu sujud sahwi jika tertinggal), seperti mengangkat tangan saat takbir, meletakkan tangan kanan di atas kiri di bawah dada, membaca doa iftitah, ta'awwudz, mengucap amin, membaca surat, dan membaca tasbih ruku/sujud.",
+        "arabic": "وَسُنَنُهَا قَبْلَ الدُّخُولِ فِيهَا شَيْئَانِ: الأَذَانُ وَالإِقَامَةُ. وَبَعْدَ الدُّخُولِ فِيهَا شَيْئَانِ: التَّشَهُّدُ الأَوَّلُ، وَالْقُنُوتُ فِي الصُّبْحِ وَفِي الْوِتْرِ فِي النِّصْفِ الثَّانِي مِنْ شَهْرِ رَمَضَانَ.",
+        "translation": "Sunnah shalat terbagi dua: Sunnah Ab'adh (disunnahkan sujud sahwi jika tertinggal) dan Sunnah Hai'at (tidak perlu sujud sahwi jika tertinggal).",
         "keypoints": [
-          "Sunnah Ab'adh: Ditambal dengan Sujud Sahwi di akhir shalat sebelum salam.",
-          "Sunnah Hai'at: Amalan keindahan shalat yang jika tertinggal tidak perlu sujud sahwi."
+          "Sunnah Ab'adh: Ditambal dengan Sujud Sahwi sebelum salam.",
+          "Sunnah Hai'at: Amalan keindahan shalat seperti membaca doa iftitah dan tasbih."
         ]
       },
       {
@@ -182,65 +180,65 @@
         "titleId": "5. Perkara yang Membatalkan Shalat",
         "titleAr": "فَصْلٌ فِي مُبْطِلَاتِ الصَّلَاةِ",
         "arabic": "وَالَّذِي يَبْطُلُ بِهِ الصَّلَاةُ أَحَدَ عَشَرَ شَيْئًا: الْكَلَامُ الْعَمْدُ، وَالْعَمَلُ الْكَثِيرُ، وَالْحَدَثُ، وَحُدُوثُ النَّجَاسَةِ، وَانْكِشَافُ الْعَوْرَةِ، وَتَغَيُّرُ النِّيَّةِ، وَاسْتِدْبَارُ الْقِبْلَةِ، وَالأَكْلُ، وَالشُّرْبُ، وَالْقَهْقَهَةُ، وَالرِّدَّةُ.",
-        "translation": "Shalat batal karena 11 perkara: Berbicara dengan sengaja, gerakan yang banyak berturut-turut (3 kali atau lebih), berhadas, terkena najis yang tidak dimaafkan tanpa segera dibuang, terbukanya aurat jika tidak segera ditutup, berubahnya niat, membelakangi/berpaling dari arah kiblat, makan, minum, tertawa terbahak-bahak, dan murtad.",
+        "translation": "Shalat batal karena 11 perkara: Berbicara sengaja, gerakan banyak berturut-turut (3 kali), berhadas, terkena najis, terbuka aurat, berubah niat, membelakangi kiblat, makan, minum, tertawa terbahak-bahak, dan murtad.",
         "keypoints": [
-          "Bicara membatalkan shalat walau hanya dua huruf atau satu huruf yang memahamkan arti (seperti 'qi' = jagalah).",
-          "Gerakan ringan (seperti menggerakkan jari saat bertasbih) tidak membatalkan shalat."
+          "Bicara membatalkan shalat walau hanya dua huruf.",
+          "Gerakan ringan jari-jemari tidak membatalkan shalat."
         ]
       },
       {
         "id": "pasal-jamaah",
         "titleId": "6. Ketentuan Shalat Berjamaah",
         "titleAr": "فَصْلٌ فِي صَلَاةِ الْجَمَاعَةِ",
-        "arabic": "وَصَلَاةُ الْجَمَاعَةِ فِي الْفَرَائِضِ سُنَّةٌ مُؤَكَّدَةٌ (أَوْ فَرْضُ كِفَايَةٍ). وَعَلَى الْمَأْمُومِ أَنْ يَنْوِيَ الِائْتِمَامَ دُونَ الإِمَامِ. وَيَجُوزُ أَنْ يَأْتَمَّ الْحُرُّ بِالْعَبْدِ، وَالْبَالِغُ بِالْمُرَاهِقِ. وَلَا تَصِحُّ قُدْوَةُ رَجُلٍ بِامْرَأَةٍ، وَلَا قَارِئٍ بِأُمِّيٍّ.",
-        "translation": "Shalat berjamaah pada shalat fardhu hukumnya fardhu kifayah (atau sunnah muakkadah). Makmum wajib berniat mengikuti imam saat takbiratul ihram. Sah orang merdeka bermakmum kepada hamba sahaya, dan orang baligh bermakmum kepada anak mumayyiz. Tidak sah laki-laki bermakmum kepada perempuan, dan orang fasih bermakmum kepada yang ummi (cacat bacaan fatihahnya).",
+        "arabic": "وَصَلَاةُ الْجَمَاعَةِ فِي الْفَرَائِضِ سُنَّةٌ مُؤَكَّدَةٌ (أَوْ فَرْضُ كِفَايَةٍ). وَعَلَى الْمَأْمُومِ أَنْ يَنْوِيَ الِائْتِمَامَ دُونَ الإِمَامِ.",
+        "translation": "Shalat berjamaah pada shalat fardhu hukumnya fardhu kifayah (atau sunnah muakkadah). Makmum wajib berniat mengikuti imam saat takbiratul ihram.",
         "keypoints": [
-          "Posisi makmum laki-laki tunggal: di samping kanan imam agak mundur sedikit.",
-          "Makmum tidak boleh mendahului imam 2 rukun fi'li secara sengaja tanpa uzur karena membatalkan shalat."
+          "Posisi makmum laki-laki tunggal: di samping kanan imam agak mundur.",
+          "Makmum tidak boleh mendahului imam 2 rukun fi'li secara sengaja."
         ]
       },
       {
         "id": "pasal-jamak-qashar",
         "titleId": "7. Shalat Jamak & Qashar (Musafir)",
         "titleAr": "فَصْلٌ فِي قَصْرِ الصَّلَاةِ وَجَمْعِهَا",
-        "arabic": "وَيَجُوزُ لِلْمُسَافِرِ قَصْرُ الصَّلَاةِ الرُّبَاعِيَّةِ بِشَرَائِطَ: أَنْ يَكُونَ سَفَرُهُ فِي غَيْرِ مَعْصِيَةٍ، وَأَنْ تَكُونَ مَسَافَتُهُ سِتَّةَ عَشَرَ فَرْسَخًا. وَيَجُوزُ لَهُ جَمْعُ الظُّهْرِ وَالْعَصْرِ تَقْدِيمًا وَتَأْخِيرًا، وَالْمَغْرِبِ وَالْعِشَاءِ تَقْدِيمًا وَتَأْخِيرًا. وَيَجُوزُ الْجَمْعُ فِي الْمَطَرِ تَقْدِيمًا.",
-        "translation": "Bagi musafir diperbolehkan meng-qashar shalat 4 rakaat menjadi 2 rakaat dengan syarat: Perjalanan bukan untuk maksiat, dan jarak tempuh minimal 16 farsakh (± 82–84 km). Boleh juga menjamak Dzuhur dengan Ashar (Taqdim/Ta'khir) serta Maghrib dengan Isya (Taqdim/Ta'khir). Boleh menjamak taqdim karena uzur hujan lebat.",
+        "arabic": "وَيَجُوزُ لِلْمُسَافِرِ قَصْرُ الصَّلَاةِ الرُّبَاعِيَّةِ بِشَرَائِطَ: أَنْ يَكُونَ سَفَرُهُ فِي غَيْرِ مَعْصِيَةٍ، وَأَنْ تَكُونَ مَسَافَتُهُ سِتَّةَ عَشَرَ فَرْسَخًا.",
+        "translation": "Bagi musafir diperbolehkan meng-qashar shalat 4 rakaat menjadi 2 rakaat jika perjalanan bukan untuk maksiat dan jarak tempuh minimal 16 farsakh (± 82-84 km). Boleh juga menjamak Dzuhur-Ashar serta Maghrib-Isya.",
         "keypoints": [
-          "Qashar hanya berlaku untuk shalat 4 rakaat (Dzuhur, Ashar, Isya). Shalat Subuh dan Maghrib tidak boleh diqashar.",
-          "Syarat Jamak Taqdim: Tertib (mendahulukan shalat pertama), niat jamak di shalat pertama, dan muwalah (bersambung tanpa jeda lama)."
+          "Qashar hanya berlaku untuk shalat 4 rakaat (Dzuhur, Ashar, Isya).",
+          "Syarat Jamak Taqdim: Tertib, niat jamak di shalat pertama, dan muwalah."
         ]
       },
       {
         "id": "pasal-jumat",
         "titleId": "8. Shalat Jumat",
         "titleAr": "فَصْلٌ فِي صَلَاةِ الْجُمُعَةِ",
-        "arabic": "وَشَرَائِطُ وُجُوبِ الْجُمُعَةِ سَبْعَةُ أَشْيَاءَ: الإِسْلَامُ، وَالْبُلُوغُ، وَالْعَقْلُ، وَالْحُرِّيَّةُ، وَالذُّكُورِيَّةُ، وَالصِّحَّةُ، وَالِاسْتِيطَانُ. وَشَرَائِطُ فِعْلِهَا ثَلَاثَةٌ: أَنْ تُقَامَ فِي وَقْتِ الظُّهْرِ، وَأَنْ تُقَامَ فِي خِطَّةِ الْبَلَدِ، وَأَنْ تُصَلَّى جَمَاعَةً بِأَرْبَعِينَ مِنَ أَهْلِ الْجُمُعَةِ. وَأَرْكَانُ الْخُطْبَتَيْنِ خَمْسَةٌ: حَمْدُ اللَّهِ، وَالصَّلَاةُ عَلَى النَّبِيِّ ﷺ، وَالْوَصِيَّةُ بِالتَّقْوَى فِيهِمَا، وَقِرَاءَةُ آيَةٍ مِنَ الْقُرْآنِ فِي إِحْدَاهُمَا، وَالدُّعَاءُ لِلْمُؤْمِنِينَ فِي الثَّانِيَةِ.",
-        "translation": "Syarat wajib Jumat ada 7: Islam, baligh, berakal, merdeka, laki-laki, sehat, dan mustauthin (penduduk menetap). Syarat sah pelaksanaannya ada 3: Didirikan pada waktu Dzuhur, di dalam batas perkampungan/kota, dan dilakukan berjamaah minimal 40 orang mustauthin. Rukun dua khutbah ada 5: Memuji Allah, bershalawat kepada Nabi SAW, berwasiat takwa pada kedua khutbah, membaca satu ayat Al-Qur'an pada salah satunya, dan mendoakan kaum mukminin pada khutbah kedua.",
+        "arabic": "وَشَرَائِطُ وُجُوبِ الْجُمُعَةِ سَبْعَةُ أَشْيَاءَ... وَشَرَائِطُ فِعْلِهَا ثَلَاثَةٌ: أَنْ تُقَامَ فِي وَقْتِ الظُّهْرِ، وَأَنْ تُقَامَ فِي خِطَّةِ الْبَلَدِ، وَأَنْ تُصَلَّى جَمَاعَةً بِأَرْبَعِينَ مِنَ أَهْلِ الْجُمُعَةِ.",
+        "translation": "Syarat sah shalat Jumat ada 3: Didirikan pada waktu Dzuhur, di dalam batas perkampungan/kota, dan dilakukan berjamaah minimal 40 orang jamaah menetap.",
         "keypoints": [
-          "Khatib wajib suci dari hadas dan najis serta menutup aurat saat berkhutbah.",
-          "Diwajibkan duduk di antara dua khutbah dengan tuma'ninah."
+          "Khatib wajib suci dari hadas dan najis serta menutup aurat.",
+          "Wajib duduk di antara dua khutbah dengan tuma'ninah."
         ]
       },
       {
         "id": "pasal-idain",
         "titleId": "9. Shalat Dua Hari Raya ('Idain)",
         "titleAr": "فَصْلٌ فِي صَلَاةِ الْعِيدَيْنِ",
-        "arabic": "وَصَلَاةُ الْعِيدَيْنِ سُنَّةٌ مُؤَكَّدَةٌ. وَتُصَلَّى رَكْعَتَيْنِ: يُكَبِّرُ فِي الأُولَى سَبْعًا سِوَى تَكْبِيرَةِ الإِحْرَامِ، وَفِي الثَّانِيَةِ خَمْسًا سِوَى تَكْبِيرَةِ الْقِيَامِ. وَيَخْطُبُ بَعْدَهُمَا خُطْبَتَيْنِ: يُكَبِّرُ فِي الأُولَى تِسْعًا، وَفِي الثَّانِيَةِ سَبْعًا.",
-        "translation": "Shalat Idul Fitri dan Idul Adha hukumnya sunnah muakkadah. Dilaksanakan dua rakaat: Bertakbir 7 kali di rakaat pertama selain Takbiratul Ihram, dan 5 kali di rakaat kedua selain Takbir berdiri. Dilanjutkan dengan dua khutbah setelah shalat: Membuka khutbah pertama dengan 9 kali takbir dan khutbah kedua dengan 7 kali takbir.",
+        "arabic": "وَصَلَاةُ الْعِيدَيْنِ سُنَّةٌ مُؤَكَّدَةٌ. وَتُصَلَّى رَكْعَتَيْنِ: يُكَبِّرُ فِي الأُولَى سَبْعًا سِوَى تَكْبِيرَةِ الإِحْرَامِ، وَفِي الثَّانِيَةِ خَمْسًا سِوَى تَكْبِيرَةِ الْقِيَامِ.",
+        "translation": "Shalat Idul Fitri dan Idul Adha hukumnya sunnah muakkadah. Bertakbir 7 kali di rakaat pertama dan 5 kali di rakaat kedua.",
         "keypoints": [
-          "Waktu shalat Id: Sejak terbit matahari hingga tergelincir matahari (waktu zawal).",
-          "Disunnahkan membaca tasbih di antara sela-sela takbir zawa'id."
+          "Waktu shalat Id: Sejak terbit matahari hingga tergelincir matahari.",
+          "Disunnahkan membaca tasbih di sela-sela takbir zawa'id."
         ]
       },
       {
         "id": "pasal-jenazah",
         "titleId": "10. Pengurusan Jenazah & Shalat Jenazah",
         "titleAr": "فَصْلٌ فِي أَحْكَامِ الْجَنَائِزِ",
-        "arabic": "وَيَلْزَمُ فِي الْمَيِّتِ أَرْبَعَةُ أَشْيَاءَ: غُسْلُهُ، وَتَكْفِينُهُ، وَالصَّلَاةُ عَلَيْهِ، وَدَفْنُهُ. وَأَرْكَانُ صَلَاةِ الْجَنَازَةِ سَبْعَةٌ: النِّيَّةُ، وَأَرْبَعُ تَكْبِيرَاتٍ، وَالْقِيَامُ مَعَ الْقُدْرَةِ، وَقِرَاءَةُ الْفَاتِحَةِ بَعْدَ الأُولَى، وَالصَّلَاةُ عَلَى النَّبِيِّ ﷺ بَعْدَ الثَّانِيَةِ، وَالدُّعَاءُ لِلْمَيِّتِ بَعْدَ الثَّالِثَةِ، وَالسَّلَامُ بَعْدَ الرَّابِعَةِ.",
-        "translation": "Kewajiban fardhu kifayah terhadap mayit ada 4: Memandikan, mengafani, menyalatkan, dan menguburkan. Rukun shalat jenazah ada 7: Niat, 4 takbir, berdiri bagi yang mampu, membaca Al-Fatihah setelah takbir pertama, bershalawat kepada Nabi SAW setelah takbir kedua, mendoakan mayit setelah takbir ketiga, dan salam setelah takbir keempat.",
+        "arabic": "وَيَلْزَمُ فِي الْمَيِّتِ أَرْبَعَةُ أَشْيَاءَ: غُسْلُهُ، وَتَكْفِينُهُ، وَالصَّلَاةُ عَلَيْهِ، وَدَفْنُهُ. وَأَرْكَانُ صَلَاةِ الْجَنَازَةِ سَبْعَةٌ: النِّيَّةُ، وَأَرْبَعُ تَكْبِيرَاتٍ، وَالْقِيَامُ مَعَ الْقُدْرَةِ، وَقِرَاءَةُ الْفَاتِحَةِ بَعْدَ الأُولَى، وَالصَّلَاةُ عَلَى النَّبِيِّ ﷺ بَعْدَ الثَّالِثَةِ، وَالدُّعَاءُ لِلْمَيِّتِ بَعْدَ الثَّالِثَةِ، وَالسَّلَامُ بَعْدَ الرَّابِعَةِ.",
+        "translation": "Kewajiban fardhu kifayah terhadap mayit ada 4: Memandikan, mengafani, menyalatkan, dan menguburkan.",
         "keypoints": [
-          "Orang yang mati syahid di medan perang fi sabilillah dan bayi prematur yang gugur tanpa ada tanda kehidupan tidak boleh dimandikan dan tidak dishalatkan.",
-          "Kafan minimal: Satu lapis kain penutup aurat; sunnah bagi laki-laki 3 lapis kain, bagi perempuan 5 lapis kain."
+          "Orang yang mati syahid di medan perang tidak dimandikan dan tidak dishalatkan.",
+          "Kafan minimal 1 lapis penutup aurat; sunnah laki-laki 3 lapis, wanita 5 lapis."
         ]
       }
     ]
@@ -255,35 +253,34 @@
         "id": "pasal-objek-zakat",
         "titleId": "1. Harta Objek Wajib Zakat",
         "titleAr": "فَصْلٌ فِي الْأَمْوَالِ الَّتِي تَلْزَمُ فِيهَا الزَّكَاةُ",
-        "arabic": "تَجِبُ الزَّكَاةُ فِي خَمْسَةِ أَشْيَاءَ: الْمَوَاشِي، وَالأَثْمَانِ، وَالزُّرُوعِ، وَالثِّمَارِ، وَعُرُوضِ التِّجَارَةِ. فَأَمَّا الْمَوَاشِي فَتَجِبُ فِي ثَلَاثَةِ أَجْنَاسٍ: الإِبِلِ، وَالْبَقَرِ، وَالْغَنَمِ. وَشَرَائِطُ وُجُوبِهَا سِتَّةُ أَشْيَاءَ: الإِسْلَامُ، وَالْحُرِّيَّةُ، وَالْمِلْكُ التَّامُّ، وَالنِّصَابُ، وَالْحَوْلُ، وَالسَّوْمُ.",
-        "translation": "Zakat wajib pada 5 jenis harta: 1) Hewan ternak (unta, sapi/kerbau, kambing), 2) Logam mulia (emas dan perak), 3) Hasil pertanian makanan pokok, 4) Buah-buahan (kurma dan anggur), 5) Harta perniagaan. Syarat wajibnya zakat ada 6: Islam, merdeka, kepemilikan sempurna, mencapai nishab, melewati masa haul (1 tahun), dan saum (digembalakan di padang rumput bebas tanpa biaya pakan).",
+        "arabic": "تَجِبُ الزَّكَاةُ فِي خَمْسَةِ أَشْيَاءَ: الْمَوَاشِي، وَالأَثْمَانِ، وَالزُّرُوعِ، وَالثِّمَارِ، وَعُرُوضِ التِّجَارَةِ.",
+        "translation": "Zakat wajib pada 5 jenis harta: Hewan ternak, Logam mulia (emas & perak), Hasil pertanian, Buah-buahan (kurma & anggur), dan Harta perniagaan.",
         "keypoints": [
-          "Nishab Kambing: 40 ekor (zakatnya 1 ekor kambing umur 1-2 tahun).",
-          "Nishab Sapi: 30 ekor (zakatnya 1 ekor tabi' umur 1 tahun).",
-          "Ternak yang dipekerjakan untuk membajak/mengangkut barang tidak wajib dizakati."
+          "Nishab Kambing: 40 ekor (zakatnya 1 ekor kambing).",
+          "Nishab Sapi: 30 ekor (zakatnya 1 ekor sapi umur 1 tahun).",
+          "Ternak yang dipekerjakan tidak wajib dizakati."
         ]
       },
       {
         "id": "pasal-zakat-emas-perak",
         "titleId": "2. Zakat Emas, Perak, & Perniagaan",
         "titleAr": "فَصْلٌ فِي زَكَاةِ الذَّهَبِ وَالْفِضَّةِ وَالتِّجَارَةِ",
-        "arabic": "وَنِصَابُ الذَّهَبِ عِشْرُونَ مِثْقَالًا، وَفِيهِ رُبُعُ الْعُشْرِ وَهُوَ نِصْفُ مِثْقَالٍ. وَنِصَابُ الْفِضَّةِ مِائَتَا دِرْهَمٍ، وَفِيهِ رُبُعُ الْعُشْرِ وَهُوَ خَمْسَةُ دَرَاهِمَ. وَتُقَوَّمُ عُرُوضُ التِّجَارَةِ عِنْدَ آخِرِ الْحَوْلِ بِمَا اشْتُرِيَتْ بِهِ.",
-        "translation": "Nishab emas adalah 20 mitsqal (± 85 gram emas murni), kadar zakatnya 2,5% (1/40). Nishab perak adalah 200 dirham (± 595 gram perak murni), kadar zakatnya 2,5%. Barang perniagaan dinilai pada akhir haul menggunakan mata uang dasar pembelian dan dikeluarkan zakatnya 2,5%.",
+        "arabic": "وَنِصَابُ الذَّهَبِ عِشْرُونَ مِثْقَالًا، وَفِيهِ رُبُعُ الْعُشْرِ وَهُوَ نِصْفُ مِثْقَالٍ. وَنِصَابُ الْفِضَّةِ مِائَتَا دِرْهَمٍ...",
+        "translation": "Nishab emas adalah 20 mitsqal (± 85 gram emas murni), kadar zakatnya 2,5%. Nishab perak adalah 200 dirham (± 595 gram perak murni), kadar zakatnya 2,5%.",
         "keypoints": [
-          "Perhiasan wanita yang mubah dan dipakai sewajarnya tidak dikenakan zakat.",
-          "Zakat Rikaz (harta karun temuan zaman jahiliyah): Tidak disyaratkan haul dan wajib dikeluarkan zakatnya 20% (1/5) saat ditemukan."
+          "Perhiasan wanita yang dipakai sewajarnya tidak dikenakan zakat.",
+          "Zakat Rikaz (harta karun temuan): Wajib dikeluarkan zakatnya 20% saat ditemukan."
         ]
       },
       {
         "id": "pasal-zakat-fitrah",
         "titleId": "3. Zakat Fitrah & Mustahiq Zakat",
         "titleAr": "فَصْلٌ فِي زَكَاةِ الْفِطْرِ وَقِسْمَةِ الزَّكَوَاتِ",
-        "arabic": "وَتَجِبُ زَكَاةُ الْفِطْرِ بِثَلَاثَةِ أَشْيَاءَ: الإِسْلَامُ، وَبِغُرُوبِ الشَّمْسِ مِنْ آخِرِ يَوْمٍ مِنْ شَهْرِ رَمَضَانَ، وَوُجُودُ الْفَضْلِ عَنْ قُوتِهِ وَقُوتِ عِيَالِهِ فِي ذَلِكَ الْيَوْمِ. وَتُدْفَعُ الزَّكَاةُ إِلَى الأَصْنَافِ الثَّمَانِيَةِ: الْفُقَرَاءِ، وَالْمَسَاكِينِ، وَالْعَامِلِينَ عَلَيْهَا، وَالْمُؤَلَّفَةِ قُلُوبُهُمْ، وَفِي الرِّقَابِ، وَالْغَارِمِينَ، وَفِي سَبِيلِ اللَّهِ، وَابْنِ السَّبِيلِ.",
-        "translation": "Zakat Fitrah wajib dengan 3 syarat: Islam, mendapati tenggelamnya matahari akhir Ramadhan (malam Idul Fitri), dan memiliki kelebihan makanan pokok untuk diri dan tanggungannya pada hari raya tersebut. Kadar zakatnya 1 sha' (± 2,7–3 kg atau 3,5 liter makanan pokok). Zakat wajib disalurkan kepada 8 golongan: Fakir, Miskin, Amil, Muallaf, Riqab (hamba sahaya mukatab), Gharimin (orang terlilit utang), Fi Sabilillah (pejuang perang sukarela), dan Ibnu Sabil (musafir kehabisan bekal).",
+        "arabic": "وَتَجِبُ زَكَاةُ الْفِطْرِ بِثَلَاثَةِ أَشْيَاءَ: الإِسْلَامُ، وَبِغُرُوبِ الشَّمْسِ مِنْ آخِرِ يَوْمٍ مِنْ شَهْرِ رَمَضَانَ، وَوُجُودُ الْفَضْلِ عَنْ قُوتِهِ وَقُوتِ عِيَالِهِ...",
+        "translation": "Zakat Fitrah wajib dengan 3 syarat: Islam, mendapati tenggelamnya matahari akhir Ramadhan, dan memiliki kelebihan makanan pokok.",
         "keypoints": [
-          "Waktu Wajib Zakat Fitrah: Terbenamnya matahari akhir Ramadhan.",
-          "Waktu Sunnah: Sebelum dilaksanakannya Shalat Idul Fitri.",
-          "Zakat tidak boleh diberikan kepada orang kafir, keturunan Bani Hasyim dan Muthallib, serta orang yang nafkahnya menjadi tanggungan wajib muzakki."
+          "Kadar zakat fitrah: 1 sha' (± 2,7 - 3 kg / 3,5 liter makanan pokok).",
+          "Mustahiq zakat terdiri dari 8 golongan (Asnaf 8)."
         ]
       }
     ]
@@ -299,20 +296,20 @@
         "titleId": "1. Syarat & Rukun Puasa",
         "titleAr": "فَصْلٌ فِي شَرَائِطِ الصَّوْمِ وَأَرْكَانِهِ",
         "arabic": "وَشَرَائِطُ وُجُوبِ الصِّيَامِ أَرْبَعَةُ أَشْيَاءَ: الإِسْلَامُ، وَالْبُلُوغُ، وَالْعَقْلُ، وَالْقُدْرَةُ عَلَى الصَّوْمِ. وَفَرَائِضُهُ أَرْبَعَةُ أَشْيَاءَ: النِّيَّةُ، وَالإِمْسَاكُ عَنِ الأَكْلِ وَالشُّرْبِ، وَالْجِمَاعِ، وَتَعَمُّدِ الْقَيْءِ.",
-        "translation": "Syarat wajib puasa ada 4: Islam, baligh, berakal, dan mampu menjalankannya. Fardhu (rukun) puasa ada 4: Niat di malam hari sebelum fajar (tabyit), menahan diri dari makan dan minum, menahan diri dari jimak, serta menahan diri dari muntah dengan sengaja.",
+        "translation": "Syarat wajib puasa ada 4: Islam, baligh, berakal, dan mampu. Rukun puasa ada 4: Niat di malam hari, menahan dari makan & minum, menahan dari jimak, dan menahan dari muntah sengaja.",
         "keypoints": [
-          "Niat Puasa Fardhu: Wajib dilakukan setiap malam sebelum fajar terbit (tabyit dan ta'yin).",
-          "Niat Puasa Sunnah: Sah dilakukan di pagi hari hingga sebelum waktu zawal (Dzuhur) asalkan belum makan/minum/melakukan pembatal."
+          "Niat Puasa Fardhu: Wajib dilakukan setiap malam sebelum fajar terbit.",
+          "Niat Puasa Sunnah: Sah dilakukan di pagi hari sebelum waktu Dzuhur asalkan belum membatalkan puasa."
         ]
       },
       {
         "id": "pasal-batal-puasa",
         "titleId": "2. Pembatal Puasa & Kafarat",
         "titleAr": "فَصْلٌ فِي مُفْطِرَاتِ الصَّوْمِ وَالْكَفَّارَةِ",
-        "arabic": "وَالَّذِي يُفْطِرُ بِهِ الصَّائِمُ عَشَرَةُ أَشْيَاءَ: مَا وَصَلَ عَمْدًا إِلَى الْجَوْفِ الْمُنْفَتِحِ، وَالْحُقْنَةُ فِي أَحَدِ السَّبِيلَيْنِ، وَالْقَيْءُ عَمْدًا، وَالْوَطْءُ عَمْدًا فِي الْفَرْجِ، وَالإِنْزَالُ عَنْ مُبَاشَرَةٍ، وَالْحَيْضُ، وَالنِّفَاسُ، وَالْجُنُونُ، وَالإِغْمَاءُ كُلَّ الْيَوْمِ، وَالرِّدَّةُ. وَمَنْ وَطِئَ فِي نَهَارِ رَمَضَانَ عَامِدًا فَعَلَيْهِ الْقَضَاءُ وَالْكَفَّارَةُ الْعُظْمَى.",
-        "translation": "Perkara yang membatalkan puasa ada 10: 1) Benda masuk secara sengaja ke dalam rongga tubuh terbuka (mulut, hidung, telinga), 2) Memasukkan obat ke qubul/dubur, 3) Muntah sengaja, 4) Bersetubuh sengaja, 5) Keluar mani akibat persentuhan fisik langsung, 6) Haid, 7) Nifas, 8) Gila, 9) Pingsan seharian penuh, 10) Murtad. Siapa saja yang bersetubuh di siang hari Ramadhan dengan sengaja wajib qadha dan membayar kafarat uzhma.",
+        "arabic": "وَالَّذِي يُفْطِرُ بِهِ الصَّائِمُ عَشَرَةُ أَشْيَاءَ... وَمَنْ وَطِئَ فِي نَهَارِ رَمَضَانَ عَامِدًا فَعَلَيْهِ الْقَضَاءُ وَالْكَفَّارَةُ الْعُظْمَى.",
+        "translation": "Bersetubuh di siang hari Ramadhan dengan sengaja mewajibkan qadha dan membayar kafarat uzhma.",
         "keypoints": [
-          "Kafarat Uzhma: Memerdekakan budak mukmin; jika tidak mampu, berpuasa 2 bulan berturut-turut; jika tidak mampu, memberi makan 60 orang miskin (masing-masing 1 mud makanan pokok).",
+          "Kafarat Uzhma: Memerdekakan budak, atau berpuasa 2 bulan berturut-turut, atau memberi makan 60 orang miskin.",
           "Makan atau minum karena lupa tidak membatalkan puasa."
         ]
       },
@@ -320,11 +317,43 @@
         "id": "pasal-hari-haram-puasa",
         "titleId": "3. Hari-Hari Diharamkan Berpuasa & I'tikaf",
         "titleAr": "فَصْلٌ فِي الأَيَّامِ الْمُحَرَّمِ صَوْمُهَا وَالِاعْتِكَافِ",
-        "arabic": "وَيَحْرُمُ صِيَامُ خَمْسَةِ أَيَّامٍ: الْعِيدَانِ (الْفِطْرُ وَالأَضْحَى)، وَأَيَّامُ التَّشْرِيقِ الثَّلَاثَةُ. وَيُكْرَهُ صَوْمُ يَوْمِ الشَّكِّ إِلَّا أَنْ يُوَافِقَ عَادَةً لَهُ. وَالِاعْتِكَافُ سُنَّةٌ مُؤَكَّدَةٌ، وَلَهُ شَرْطَانِ: النِّيَّةُ، وَاللُّبْثُ فِي الْمَسْجِدِ.",
-        "translation": "Diharamkan berpuasa pada 5 hari: Dua hari raya (Idul Fitri dan Idul Adha), serta 3 hari Tasyrik (11, 12, 13 Dzulhijjah). Makruh/haram berpuasa pada hari syak (30 Sya'ban) kecuali jika bertepatan dengan puasa rutinitasnya (seperti Senin-Kamis atau Daud). I'tikaf hukumnya sunnah muakkadah dengan 2 rukun utama: Niat dan berdiam diri di dalam masjid.",
+        "arabic": "وَيَحْرُمُ صِيَامُ خَمْسَةِ أَيَّامٍ: الْعِيدَانِ (الْفِطْرُ وَالأَضْحَى)، وَأَيَّامُ التَّشْرِيقِ الثَّلَاثَةُ.",
+        "translation": "Diharamkan berpuasa pada 5 hari: Dua hari raya (Idul Fitri & Idul Adha) dan 3 hari Tasyrik (11, 12, 13 Dzulhijjah).",
         "keypoints": [
-          "I'tikaf batal karena: Keluar dari masjid tanpa uzur hajat manusiawi, bersetubuh, hilang akal, murtad, atau haid/nifas.",
-          "Durasi minimal i'tikaf adalah berdiam di masjid melebihi durasi tuma'ninah shalat."
+          "I'tikaf memiliki 2 rukun utama: Niat dan berdiam diri di dalam masjid.",
+          "Durasi minimal i'tikaf melebihi durasi tuma'ninah shalat."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "haji",
+    "titleId": "Kitab Haji dan Umrah",
+    "titleAr": "كِتَابُ أَحْكَامِ الْحَجِّ وَالْعُمْرَةِ",
+    "description": "Menjelaskan tentang syarat wajib, rukun, wajib haji, serta larangan-larangan saat ihram.",
+    "pasals": [
+      {
+        "id": "pasal-syarat-haji",
+        "titleId": "1. Syarat Wajib & Rukun Haji",
+        "titleAr": "فَصْلٌ فِي شَرَائِطِ الْحَجِّ وَأَرْكَانِهِ",
+        "arabic": "وَشَرَائِطُ وُجُوبِ الْحَجِّ سَبْعَةُ أَشْيَاءَ: الْإِسْلَامُ، وَالْبُلُوغُ، وَالْعَقْلُ، وَالْحُرِّيَّةُ، وَوُجُودُ الزَّادِ وَالرَّاحِلَةِ، وَتَخْلِيَّةُ الطَّرِيقِ، وَإِمْكَانُ الْمَسِيرِ. وَأَرْكَانُ الْحَجِّ خَمْسَةٌ: الْإِحْرَامُ مَعَ النِّيَّةِ، وَالْوُقُوفُ بِعَرَفَةَ، وَالطَّوَافُ، وَالسَّعْيُ، وَالْحَلْقُ أَوْ التَّقْصِيرُ.",
+        "translation": "Syarat wajib haji ada 7: Islam, baligh, berakal, merdeka, ada bekal & kendaraan, aman perjalanan, dan memungkinkan perjalanan. Rukun haji ada 5: Ihram beserta niat, Wukuf di Arafah, Thawaf Ifadhah, Sa'i, dan Mencukur/Memotong rambut.",
+        "keypoints": [
+          "Wukuf di Arafah adalah inti dari ibadah haji (al-hajju 'arafah).",
+          "Rukun haji tidak dapat digantikan dengan denda (dam).",
+          "Thawaf dilakukan mengelilingi Ka'bah sebanyak 7 putaran dalam keadaan suci."
+        ]
+      },
+      {
+        "id": "pasal-larangan-ihram",
+        "titleId": "2. Larangan-Larangan Saat Ihram",
+        "titleAr": "فَصْلٌ فِي محَظُورَاتِ الْإِحْرَامِ",
+        "arabic": "وَيَحْرُمُ عَلَى الْمُحْرِمِ عَشَرَةُ أَشْيَاءَ: لَبْسُ الْمَخِيطِ، وَتَغْطِيَةُ الرَّأْسِ مِنَ الرَّجُلِ، وَالْوَجْهِ مِنَ الْمَرْأَةِ، وَدَهْنُ الشَّعْرِ، وَقَلْعُ الْأَظْفَارِ، وَقَتْلُ الصَّيْدِ، وَعَقْدُ النِّكَاحِ، وَالْوَطْءُ.",
+        "translation": "Diharamkan bagi orang yang sedang ihram 10 hal: Memakai pakaian berjahit (bagi laki-laki), menutup kepala (laki-laki), menutup wajah (perempuan), memakai minyak rambut/wewangian, memotong kuku, berburu hewan darat, melangsungkan akad nikah, dan bersetubuh.",
+        "keypoints": [
+          "Pakaian ihram laki-laki terdiri dari 2 lembar kain tidak berjahit.",
+          "Bersetubuh sebelum Tahallul Awal membatalkan ibadah haji dan wajib membayar dam ekstraberat (fidyah ghalizhah).",
+          "Dilarang menebang pohon atau berburu hewan di Tanah Haram Makkah dan Madinah."
         ]
       }
     ]
@@ -332,7 +361,7 @@
   {
     "id": "buyu",
     "titleId": "Kitab Jual Beli & Muamalah",
-    "titleAr": "كِتَابُ أَحْكَامِ الْبُيُوعِ",
+    "titleAr": "كِتَابُ أَحْكَامِ الْبُيُوعِ وَالْمُعَامَلَاتِ",
     "description": "Ketentuan transaksi sah, khiyar, syarat barang dagangan, riba, salam, gadai, dan utang piutang.",
     "pasals": [
       {
@@ -352,11 +381,101 @@
         "titleId": "2. Hukum Riba & Macam-Macam Khiyar",
         "titleAr": "فَصْلٌ فِي الرِّبَا وَالْخِيَارِ",
         "arabic": "وَلَا يَجُوزُ بَيْعُ الذَّهَبِ بِالذَّهَبِ وَالْفِضَّةِ بِالْفِضَّةِ إِلَّا مُتَمَاثِلًا نَقْدًا. وَالْمُتَبَايِعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا (خِيَارُ الْمَجْلِسِ)، وَلَهُمَا أَنْ يَشْتَرِطَا الْخِيَارَ إِلَى ثَلَاثَةِ أَيَّامٍ (خِيَارُ الشَّرْطِ)، وَإِذَا وُجِدَ بِالْمَبِيعِ عَيْبٌ فَلِلْمُشْتَرِي رَدُّهُ (خِيَارُ الْعَيْبِ).",
-        "translation": "Tidak boleh menjual emas dengan emas atau perak dengan perak kecuali sama timbangannya dan tunai serah terima di tempat (tanpa tempo). Penjual dan pembeli memiliki hak khiyar (menentukan lanjut/batalnya transaksi) selama belum berpisah badan dari tempat transaksi (Khiyar Majelis). Keduanya boleh mensyaratkan hak khiyar maksimal 3 hari (Khiyar Syarat). Jika terdapat cacat tersembunyi pada barang, pembeli berhak mengembalikannya seketika (Khiyar Aib).",
+        "translation": "Tidak boleh menjual emas dengan emas atau perak dengan perak kecuali sama timbangannya dan tunai serah terima di tempat. Penjual dan pembeli memiliki hak khiyar selama belum berpisah badan (Khiyar Majelis). Keduanya boleh mensyaratkan hak khiyar maksimal 3 hari (Khiyar Syarat). Jika terdapat cacat tersembunyi pada barang, pembeli berhak mengembalikannya (Khiyar Aib).",
         "keypoints": [
           "Barang Ribawi: Emas, perak, dan makanan pokok (beras, gandum, kurma, garam).",
-          "Jual beli komoditas ribawi sejenis wajib memenuhi 3 syarat: Tamatsul (sama takaran/timbangan), Hulul (tunai tanpa tempo), dan Taqabudh (serah terima sebelum berpisah).",
+          "Jual beli komoditas ribawi sejenis wajib memenuhi 3 syarat: Tamatsul (sama takaran), Hulul (tunai), dan Taqabudh (serah terima langsung).",
           "Khiyar Aib berlaku jika cacat terjadi sebelum transaksi dan mengurangi nilai jual barang."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "faraidh",
+    "titleId": "Kitab Faraidh (Waris) & Wasiat",
+    "titleAr": "كِتَابُ الْفَرَائِضِ وَالْوَصَايَا",
+    "description": "Menjelaskan tentang hukum pembagian harta warisan, bagian ahli waris, dan ketentuan wasiat.",
+    "pasals": [
+      {
+        "id": "pasal-ahli-waris",
+        "titleId": "1. Ahli Waris Laki-Laki & Perempuan",
+        "titleAr": "فَصْلٌ فِي الْفَرَائِضِ وَأَصْحَابِ الْفُرُوضِ",
+        "arabic": "وَالْوَارِثُونَ مِنَ الرِّجَالِ عَشَرَةٌ: الْاِبْنُ، وَابْنُ الْاِبْنِ، وَالْأَبُ، وَالْجَدُّ، وَالْأَخُ، وَابْنُ الْأَخِ، وَالْعَمُّ، وَابْنُ الْعَمِّ، وَالزَّوْجُ، وَالْمُعْتِقُ. وَالْوَارِثَاتُ مِنَ النِّسَاءِ سَبْعٌ: الْبِنْتُ، وَبِنْتُ الْاِبْنِ، وَالْأُمُّ، وَالْجَدَّةُ، وَالْأُخْتُ، وَالزَّوْجَةُ، وَالْمُعْتِقَةُ.",
+        "translation": "Ahli waris dari kalangan laki-laki ada 10 orang: Anak laki-laki, cucu laki-laki dari anak laki-laki, ayah, kakek, saudara laki-laki, anak laki-laki saudara laki-laki, paman, anak laki-laki paman, suami, dan laki-laki yang memerdekakan budak. Ahli waris dari kalangan perempuan ada 7 orang: Anak perempuan, cucu perempuan dari anak laki-laki, ibu, nenek, saudara perempuan, istri, dan wanita yang memerdekakan budak.",
+        "keypoints": [
+          "Jika seluruh ahli waris laki-laki berkumpul, yang berhak menerima waris hanya 3: Ayah, Anak laki-laki, dan Suami.",
+          "Jika seluruh ahli waris perempuan berkumpul, yang berhak menerima waris hanya 5: Anak perempuan, Cucu perempuan, Ibu, Istri, dan Saudara perempuan kandung.",
+          "Ashhabul Furudh adalah ahli waris yang bagiannya telah ditentukan secara pasti di dalam Al-Qur'an (1/2, 1/4, 1/8, 2/3, 1/3, 1/6)."
+        ]
+      },
+      {
+        "id": "pasal-wasiat",
+        "titleId": "2. Ketentuan & Batasan Wasiat",
+        "titleAr": "فَصْلٌ فِي أَحْكَامِ الْوَصَايَا",
+        "arabic": "وَتَصِحُّ الْوَصِيَّةُ لِكُلِّ مَالِكٍ عاقِلٍ بَالِغٍ بِكُلِّ مَالٍ مُتَمَوَّلٍ. وَلَا تَجُوزُ الْوَصِيَّةُ لِوَارِثٍ إِلَّا أَنْ يَشَاءَ الْبَاقُونَ مِنَ الْوُرَّاثِ، وَلَا تَجُوزُ بِمَا زَادَ عَلَى الثُّلُثِ إِلَّا أَنْ يُجِيزَهُ الْوُرَّاثُ.",
+        "translation": "Sah wasiat dari setiap orang yang memiliki harta, berakal, dan baligh pada setiap harta yang bernilai ekonomi. Tidak boleh berniat wasiat ditujukan kepada ahli waris kecuali disetujui oleh seluruh ahli waris lainnya. Dan tidak boleh berniat wasiat melebihi 1/3 (sepertiga) dari total harta peninggalan kecuali diizinkan oleh para ahli waris.",
+        "keypoints": [
+          "Wasiat untuk ahli waris tidak sah secara hukum asal (la washiyyata li warits).",
+          "Batas maksimal harta yang boleh diwasiatkan adalah 1/3 dari sisa harta bersih (setelah dikurangi biaya pengurusan jenazah dan pelunasan utang).",
+          "Penerima wasiat syaratnya bukan pelaku pembunuhan terhadap pemberi wasiat."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nikah",
+    "titleId": "Kitab Nikah (Munakahat)",
+    "titleAr": "كِتَابُ أَحْكَامِ النِّكَا حِ وَمَا يَتَّصِلُ بِهِ",
+    "description": "Membahas rukun dan syarat nikah, mahar, walimah, hak suami-istri, khulu', talak, rujuk, iddah, serta hadhanah.",
+    "pasals": [
+      {
+        "id": "pasal-rukun-nikah",
+        "titleId": "1. Syarat & Rukun Akad Nikah",
+        "titleAr": "فَصْلٌ فِي شَرَائِطِ النِّكَا حِ وَأَرْكَانِهِ",
+        "arabic": "النِّكَاحُ مُسْتَحَبٌّ لِمَنْ يَحْتَاجُ إِلَيْهِ. وَلَا يَصِحُّ عَقْدُ النِّكَاحِ إِلَّا بِوَلِيٍّ وَشَاهِدَيْ عَدْلٍ. وَيَحْتَاجُ الْعَقْدُ إِلَى إِيجَابٍ وَقَبُولٍ: فَالْإِيجَابُ كَقَوْلِ الْوَلِيِّ: 'زَوَّجْتُكَ أَوْ أَنْكَحْتُكَ'، وَالْقَبُولُ كَقَوْلِ الزَّوْجِ: 'تَزَوَّجْتُهَا أَوْ نَكَحْتُهَا'.",
+        "translation": "Nikah hukumnya sunnah bagi orang yang membutuhkannya. Tidak sah akad nikah kecuali dengan hadirnya wali dan dua orang saksi yang adil. Akad nikah membutuhkan ijab dan qabul: Ijab adalah ucapan wali seperti 'Aku nikahkan engkau', dan Qabul adalah ucapan calon suami seperti 'Aku terima nikahnya'.",
+        "keypoints": [
+          "Rukun Nikah ada 5: Calon Suami, Calon Istri, Wali, Dua Orang Saksi Laki-laki yang Adil, dan Sighat (Ijab Qabul).",
+          "Urutan Wali Nasab: Ayah kandung, Kakek dari pihak ayah, Saudara laki-laki kandung, Saudara laki-laki seayah, Anak laki-laki dari saudara laki-laki kandung, Paman, hingga Wali Hakim.",
+          "Saksi wajib laki-laki, berakal, baligh, merdeka, beragama Islam, dan adil."
+        ]
+      },
+      {
+        "id": "pasal-wanita-haram-dinikahi",
+        "titleId": "2. Wanita yang Haram Dinikahi (Mahram)",
+        "titleAr": "فَصْلٌ فِي الْمُحَرَّمَاتِ فِي النِّكَاحِ",
+        "arabic": "وَالْمُحَرَّمَاتُ بِالنَّصِّ أَرْبَعَ عَشْرَةَ امْرَأَةً: سَبْعٌ بِالنَّسَبِ، وَهُنَّ: الْأُمُّ، وَالْبِنْتُ، وَالْأُخْتُ، وَالْعَمَّةُ، وَالْخَالَةُ، وَبِنْتُ الْأَخِ، وَبِنْتُ الْأُخْتِ. وَاثْنَتَانِ بِالرَّضَاعِ: الْأُمُّ الرَّضَاعِيَّةُ، وَالْأُخْتُ الرَّضَاعِيَّةُ. وَأَرْبَعٌ بِالْمُصَاهَرَةِ: أُمُّ الزَّوْجَةِ، وَبِنْتُ الزَّوْجَةِ، وَزَوْجَةُ الْأَبِ، وَزَوْجَةُ الْاِبْنِ. وَوَاحِدَةٌ مِنْ جِهَةِ الْجَمْعِ وَهِيَ أُخْتُ الزَّوْجَةِ.",
+        "translation": "Wanita yang haram dinikahi (mahram) berdasarkan dalil nash ada 14 golongan: 7 karena hubungan nasab (Ibu, Anak perempuan, Saudara perempuan, Bibi dari ayah, Bibi dari ibu, Anak perempuan dari saudara laki-laki, Anak perempuan dari saudara perempuan). 2 karena persusuan (Ibu susuan & Saudara perempuan susuan). 4 karena mushaharah/perbesanan (Ibu mertua, Anak tiri jika sudah berhubungan dengan ibunya, Istri ayah, & Istri anak). 1 karena dimadu bersamaan (Saudara perempuan dari istri).",
+        "keypoints": [
+          "Mahram Mu'abbad: Haram dinikahi untuk selamanya (karena nasab, radha'/susuan, atau mushaharah/pernikahan).",
+          "Mahram Mu'aqqat: Haram dinikahi sementara waktu (seperti mengumpulkan dua wanita bersaudara menjadi istri secara bersamaan).",
+          "Anak tiri menjadi mahram apabila suami telah melakukan hubungan suami-istri (dukhul) dengan ibu si anak."
+        ]
+      },
+      {
+        "id": "pasal-mahar-walimah",
+        "titleId": "3. Hukum Mahar (Mas Kawin) & Walimah",
+        "titleAr": "فَصْلٌ فِي الصَّدَاقِ وَالْوَلِيمَةِ",
+        "arabic": "وَيُسْتَحَبُّ تَسْمِيَةُ الْمَهْرِ فِي الْعَقْدِ، وَإِنْ لَمْ يُسَمَّ صَحَّ الْعَقْدُ وَوَجَبَ مَهْرُ الْمِثْلِ. وَلَا حَدَّ لِأَقَلِّ الْمَهْرِ وَلَا لِأَكْثَرِهِ. وَالْوَلِيمَةُ عَلَى النِّكَاحِ مُسْتَحَبَّةٌ، وَالْإِجَابَةُ إِلَيْهَا وَاجِبَةٌ إِلَّا مِنْ عُذْرٍ.",
+        "translation": "Disunnahkan menyebutkan jumlah mahar saat akad nikah. Jika tidak disebutkan, akad tetap sah dan istri berhak mendapatkan mahar mitsil (mahar yang sepadan dengan wanita sederajatnya). Tidak ada batasan minimal maupun maksimal untuk mahar. Mengadakan walimatul 'ursy hukumnya sunnah muakkadah, dan menghadiri undangan walimah hukumnya wajib (fardhu 'ain) kecuali ada uzur.",
+        "keypoints": [
+          "Segala sesuatu yang bernilai harta atau dapat disewakan sah dijadikan mahar (seperti hafalan Al-Qur'an atau pengajaran ilmu).",
+          "Mahar menjadi milik penuh istri setelah terjadinya dukhul (hubungan suami-istri).",
+          "Menghadiri undangan walimah menjadi wajib jika diundang secara personal dan tidak ada kemaksiatan di acara tersebut."
+        ]
+      },
+      {
+        "id": "pasal-talak-rujuk",
+        "titleId": "4. Ketentuan Talak, Rujuk, & 'Iddah",
+        "titleAr": "فَصْلٌ فِي الطَّلَاقِ وَالرَّجْعَةِ وَالْعِدَّةِ",
+        "arabic": "وَالطَّلَاقُ يَنْقَسِمُ إِلَى صَرِيحٍ وَكِنَايَةٍ. فَالصَّرِيحُ يَحْتَاجُ إِلَى النِّيَّةِ فِي قَوْلٍ وَلَا يَحْتَاجُ إِلَى النِّيَّةِ فِي الْأَصَحِّ، وَالْكِنَايَةُ تَحْتَاجُ إِلَى النِّيَّةِ. وَإِذَا طَلَّقَ الرَّجُلُ زَوْجَتَهُ طَلَاقًا رَجْعِيًّا فَلَهُ رَجْعَتُهَا فِي الْعِدَّةِ بِغَيْرِ وَلِيٍّ وَلَا زَوْجٍ جَدِيدٍ.",
+        "translation": "Talak terbagi menjadi dua: Sarih (terang-terangan) dan Kinayah (sindiran). Talak sarih tidak membutuhkan niat, sedangkan talak kinayah membutuhkan niat menceraikan. Jika suami menalak istrinya dengan talak raj'i (talak 1 atau 2), maka ia berhak merujuk istrinya selama masa 'iddah tanpa perlu akad baru, tanpa wali, dan tanpa mahar baru.",
+        "keypoints": [
+          "Lafazh Sarih: Menggunakan kata 'talak', 'cerai', atau 'lepas' (tidak butuh niat).",
+          "Lafazh Kinayah: Seperti ucapan 'Pulanglah ke rumah orang tuamu' (butuh niat dari suami).",
+          "Masa 'Iddah Wanita Hamil: Sampai melahirkan kandungannya.",
+          "Masa 'Iddah Wanita Haid (Talak Raj'i): 3 kali suci (quru').",
+          "Masa 'Iddah Ditinggal Mati Suami: 4 bulan 10 hari."
         ]
       }
     ]
