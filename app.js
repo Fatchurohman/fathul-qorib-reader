@@ -17,18 +17,18 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   } catch (error) {
     console.error("Error ngakses utawa parsing data.json:", error);
-    container.innerHTML = `<p class="error-msg">Nyuwun pangapunten, data gagal dimuat.</p>`;
+    container.innerHTML = `<p class="error-msg">Nyuwun pangapunten, data gagal dimuat utawa file JSON durung pas.</p>`;
   }
 });
 
 function renderFathulQorib(data, container) {
-  // Validasi keamanan struktur data
+  // Validasi null/undefined lan struktur data aman
   if (!data || !Array.isArray(data.content_items)) {
     container.innerHTML = "<p class='error-msg'>Format data JSON ora valid.</p>";
     return;
   }
 
-  let htmlContent = `<h2 class="chapter-title">${escapeHTML(data.fashl_title)}</h2>`;
+  let htmlContent = `<h2 class="chapter-title">${escapeHTML(data.fashl_title ?? "Bab Utama")}</h2>`;
 
   data.content_items.forEach(item => {
     const arabic = item.arabic ?? "";
@@ -47,9 +47,9 @@ function renderFathulQorib(data, container) {
   container.innerHTML = htmlContent;
 }
 
-// Fungsi bantu kanggo nyegah XSS / sanitasi string sederhana
+// Fungsi sanitasi aman cegah XSS
 function escapeHTML(str) {
-  return str
+  return String(str)
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")
