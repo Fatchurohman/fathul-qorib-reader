@@ -1,8 +1,9 @@
 document.addEventListener("DOMContentLoaded", async () => {
   const container = document.getElementById("reader-container");
+  const chapterListEl = document.getElementById("chapter-list");
   
-  if (!container) {
-    console.error("Elemen container reader ora ditemokake ing DOM.");
+  if (!container || !chapterListEl) {
+    console.error("Elemen utama DOM ora ditemokake.");
     return;
   }
 
@@ -13,24 +14,56 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
     
     const data = await response.json();
-    renderFathulQorib(data, container);
+    
+    // Validasi data aman (mendukung multiple chapters utawa single chapter)
+    const chapters = Array.isArray(data) ? data : [data];
+
+    renderSidebar(chapters, chapterListEl, container);
+    
+    // Render bab pertama minangka default landing
+    if (chapters.length > 0) {
+      renderFathulQorib(chapters[0], container);
+    }
 
   } catch (error) {
     console.error("Error ngakses utawa parsing data.json:", error);
-    container.innerHTML = `<p class="error-msg">Nyuwun pangapunten, data gagal dimuat utawa file JSON durung pas.</p>`;
+    container.innerHTML = `<p class="error-msg">Nyuwun pangapunten, data gagal dimuat.</p>`;
   }
 });
 
-function renderFathulQorib(data, container) {
-  // Validasi null/undefined lan struktur data aman
-  if (!data || !Array.isArray(data.content_items)) {
-    container.innerHTML = "<p class='error-msg'>Format data JSON ora valid.</p>";
+function renderSidebar(chapters, listEl, container) {
+  listEl.innerHTML = ""; // Resiki dhisik
+
+  chapters.forEach((chap, index) => {
+    const title = chap.fashl_title ?? `Bab ${index + 1}`;
+    const li = document.createElement("li");
+    li.textContent = title;
+    
+    // Set active ing bab pertama
+    if (index === 0) li.classList.add("active");
+
+    li.addEventListener("click", () => {
+      // Ganti kelas aktif visual
+      document.querySelectorAll(".sidebar li").forEach(el => el.classList.remove("active"));
+      li.classList.add("active");
+
+      // Tampilkan konten bab sing diklik
+      renderFathulQorib(chap, container);
+    });
+
+    listEl.appendChild(li); // Otomatis nambah lan urut mudhun menyang ngisor
+  });
+}
+
+function renderFathulQorib(chapterData, container) {
+  if (!chapterData || !Array.isArray(chapterData.content_items)) {
+    container.innerHTML = "<p class='error-msg'>Format data bab ora valid.</p>";
     return;
   }
 
-  let htmlContent = `<h2 class="chapter-title">${escapeHTML(data.fashl_title ?? "Bab Utama")}</h2>`;
+  let htmlContent = `<h2 class="chapter-title">${escapeHTML(chapterData.fashl_title ?? "Bab Utama")}</h2>`;
 
-  data.content_items.forEach(item => {
+  chapterData.content_items.forEach(item => {
     const arabic = item.arabic ?? "";
     const makna = item.makna_gandul ?? "";
     const translation = item.translation ?? "";
