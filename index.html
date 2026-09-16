@@ -3,24 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fathul Qorib Reader - Makna Gandul</title>
+    <title>Fathul Qorib Reader - Luxury Edition</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header class="app-header">
+        <div class="gold-accent-line"></div>
         <h1>Fathul Qorib Reader</h1>
-        <p>Kajian Fiqih Madzhab Syafi'i ala Pesantren</p>
+        <p class="author-sub">Karya Syaikh Muhammad bin Qasim al-Ghazi</p>
+        <div class="developer-badge">
+            <span class="blinking-dot"></span>
+            <span class="dev-text">developer : fatur62</span>
+        </div>
     </header>
 
-    <main class="main-content">
-        <section id="reader-container" class="reader-wrapper">
-            <!-- Data saka data.json bakal ditampilake ing kene nganggo JavaScript -->
-            <p class="loading-text">Nunggu data dimuat...</p>
-        </section>
-    </main>
+    <div class="app-container">
+        <!-- Sidebar Daftar Isi Bab per Bab -->
+        <aside class="sidebar">
+            <h3>Daftar Bab</h3>
+            <ul id="chapter-list">
+                <!-- Diisi otomatis utawa statis awal -->
+                <li class="active" data-chapter="1">Syarat Wajib Sholat</li>
+            </ul>
+        </aside>
+
+        <!-- Main Content (Landing Langsung Materi) -->
+        <main class="main-content">
+            <section id="reader-container" class="reader-wrapper">
+                <p class="loading-text">Memuat materi kitab...</p>
+            </section>
+        </main>
+    </div>
 
     <footer class="app-footer">
-        <p>&copy; 2026 Fathul Qorib Reader Project</p>
+        <p>&copy; 2026 Fathul Qorib Reader | All Rights Reserved</p>
     </footer>
 
     <script src="app.js"></script>
