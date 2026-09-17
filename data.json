@@ -1,3 +1,51 @@
+[
+  {
+    "fashl_title": "Kitab Ahkamut Thaharah (Bab Macem-Maceme Banyu)",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "كتاب أحكام الطهارة. والكتاب لغة مصدر بمعنى الضم والجمع، واصطلاحاً اسم لجنس من الأحكام، أما الباب فاسم لنوع مما دخل تحت ذلك الجنس، والطهارة بفتح الظاء لغة النظافة...",
+        "makna_gandul": "Utawi iki iku siji kitabe piro-piro hukum thaharah (suci). Lan utawi lafadz al-kitab iku miturut basa dadi mashdar maknane nglumpukake, lan miturut istilah dadi jeneng siji jenis saking piro-piro hukum. Utawi thaharah kelawan fathahe zhah iku miturut basa suci...",
+        "translation": "Kitab Hukum-Hukum Thaharah. Kata 'al-kitab' secara bahasa adalah mashdar dengan makna menghimpun dan mengumpulkan, secara istilah adalah nama untuk jenis dari hukum-hukum. Adapun thaharah dengan fathah zha' secara bahasa adalah kebersihan..."
+      },
+      {
+        "id": 2,
+        "arabic": "(المياه التي يجوز) أي يصح (التطهير بها سبع مياه ماء السماء) أي النازل منها وهو المطر (وماء البحر) أي الملح (وماء النهر) أي الحلو (وماء البئر وماء العين وماء الثلج وماء البرد)",
+        "makna_gandul": "Lan utawi piro-piro banyu kang wenang opo amrih suci kelawan banyu iku pitu maceme: banyu langit (yaiku banyu udan), banyu segara (banyu asin), banyu bengawan (banyu legi), banyu sumur, banyu sumber, banyu salju, lan banyu es.",
+        "translation": "Air-air yang boleh digunakan untuk bersuci ada tujuh macam: air langit (air hujan), air laut (asin), air sungai (tawar), air sumur, air mata air, air salju, dan air es."
+      },
+      {
+        "id": 3,
+        "arabic": "(ثم المياه) تنقسم (على أربعة أقسام) أحدها (طاهر) في نفسه (مطهر) لغيره (غير مكروه استعماله، وهو الماء المطلق)...",
+        "makna_gandul": "Banjur utawi piro-piro banyu iku kaperang dadi papat bagean. Utawi salah sijine iku suci ing dalem zat e lan bisa nyesucekake maring liyane tur ora makruh dipake, yaiku banyu mutlak...",
+        "translation": "Kemudian air terbagi menjadi empat bagian: Pertama, air yang suci pada zatnya dan mensucikan yang lain serta tidak makruh penggunaannya, yaitu air mutlak."
+      },
+      {
+        "id": 4,
+        "arabic": "(و) الثاني (طاهر مطهر مكروه استعماله) في البدن لا في الثوب (وهو الماء المشمس) أي المسخن بتأثير الشمس فيه...",
+        "makna_gandul": "Lan utawi kaping pindo iku banyu suci tur mensucikan nanging makruh dipake ing badan ora ing pakean, yaiku banyu musyammas (banyu kang panas amarga kesorot srengenge)...",
+        "translation": "Kedua, air suci mensucikan tapi makruh penggunaannya pada badan (bukan pada pakaian), yaitu air musyammas (air yang dipanaskan oleh terik matahari)."
+      },
+      {
+        "id": 5,
+        "arabic": "(و) القسم الثالث (طاهر) في نفسه (غير مطهر) لغيره (وهو الماء المستعمل) في رفع حدث أو إزالة نجس...",
+        "makna_gandul": "Lan utawi kaping telu iku banyu suci ing dalem zat e nanging ora bisa mensucikan liyane, yaiku banyu musta'mal (banyu tilas wudhu utawa adus) ing dalem ngilangake hadats utawa najis...",
+        "translation": "Ketiga, air yang suci pada zatnya tapi tidak mensucikan yang lain, yaitu air musta'mal (bekas dipakai untuk mengangkat hadats atau menghilangkan najis)."
+      },
+      {
+        "id": 6,
+        "arabic": "(و) القسم الرابع (ماء نجس) أي متنجس وهو قسمان أحدهما قليل (وهو الذي حلت فيه نجاسة) تغير أم لا (وهو) أي والحال أنه ماء (دون القلتين)...",
+        "makna_gandul": "Lan utawi kaping papat iku banyu najis (mutanajis), lan iku ana rong bagean: kaping pisan banyu sithik, yaiku banyu kang ketiban najis tur kurang saking rong qullah...",
+        "translation": "Keempat, air najis (mutanajis) dan terbagi dua: pertama air sedikit, yaitu air yang kejatuhan najis dan kurang dari dua qullah..."
+      },
+      {
+        "id": 7,
+        "arabic": "(والقلتان خمسمائة رطل بغدادي تقريباً في الأصح)... وترك المصنف قسماً خامساً وهو الماء المطهر الحرام كالوضوء بماء مغصوب",
+        "makna_gandul": "Lan utawi ukuran rong qullah iku limang atus rithil Baghdad kira-kira... Lan ninggal sopo mushannif ing bagean kaping lima, yaiku banyu suci mensucikan nanging haram dipake kayata wudhu kelawan banyu gaspan.",
+        "translation": "Ukuran dua qullah adalah lima ratus rithil Baghdad secara perkiraan menurut qoul ashah... Dan mushannif tidak menyebutkan bagian kelima, yaitu air suci mensucikan yang haram digunakan seperti wudhu dengan air hasil ghasab."
+      }
+    ]
+  },
   {
     "fashl_title": "Rukun-rukun Shalat",
     "content_items": [
@@ -92,4 +140,74 @@
         "translation": "Dan sunnah-sunnah sholat sebelum memasukinya ada dua perkara: Adzan dan Iqamah."
       }
     ]
+  },
+  {
+    "fashl_title": "Syarat Wajib Sholat",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "فصل: وشرائط وجوب الصلاة ثلاثة أشياء. أحدها (الإسلام) فلا تجب الصلاة على الكافر الأصلي، ولا يجب عليه قضاؤها إذا أسلم، وأما المرتد فتجب عليه الصلاة وقضاؤها إن عاد إلى الإسلام",
+        "makna_gandul": "Utawi iki iku siji fashl (pasal). Lan utawi piro-piro syarate wajibe sholat iku telung perkara. Utawi salah sijine iku Islam. Moko ora wajib opo sholat ing atase wong kafir asli, lan ora wajib ing atase kafir opo qadhane sholat nalika Islam sopo kafir. Ananging utawi wong murtad moko wajib ing atase murtad opo sholat lan qadhane murtad lamun bali sopo murtad maring Islam.",
+        "translation": "Pasal: Syarat wajib sholat ada tiga perkara. Pertama adalah Islam, maka tidak wajib sholat bagi kafir ashli, dan tidak wajib baginya qadha sholat apabila ia masuk Islam. Adapun orang murtad maka wajib baginya sholat dan qadhanya jika ia kembali masuk Islam."
+      },
+      {
+        "id": 2,
+        "arabic": "(و) الثاني (البلوغ) فلا تجب على صبي وصبية لكن يؤمران بها بعد سبع سنين إن حصل التمييز بها، وإلا فبعد التمييز ويضربان على تركها بعد كمال عشر سنين",
+        "makna_gandul": "Lan utawi kaping pindo iku baligh. Moko ora wajib opo sholat ing atase bocah lanang cilik lan bocah wadon cilik, nanging dikongkon sopo bocah loro kelawan sholat ing dalem sakwise pitung taun lamun tumeka tamyiz, lan lamun ora moko ing dalem sakwise tamyiz, lan dipukul sopo bocah loro ing atase ninggal sholat ing dalem sakwise sempurnane sepuluh taun.",
+        "translation": "Kedua adalah baligh, maka tidak wajib atas anak kecil laki-laki dan perempuan, tetapi keduanya diperintahkan sholat setelah berumur tujuh tahun jika sudah mumayyiz, dan jika belum maka setelah mumayyiz, serta dipukul karena meninggalkan sholat setelah sempurna berumur sepuluh tahun."
+      },
+      {
+        "id": 3,
+        "arabic": "(و) الثالث (العقل) فلا تجب على مجنون وقوله (وهو حد التكليف) ساقط في بعض نسخ المتن",
+        "makna_gandul": "Lan utawi kaping telu iku akal. Moko ora wajib opo sholat ing atase wong gila. Lan utawi ucapane mushannif (وهو حد التكليف) iku guwang ing dalem sebagian piro-piro naskه متن.",
+        "translation": "Ketiga adalah berakal, maka tidak wajib atas orang gila. Ucapan mushannif 'dan ia adalah batas taklif' gugur (tidak ada) di sebagian naskah matan."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Sholat-Sholat Sunnah & Rawatib",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(والصلوات المسنونة) وفي بعض النسخ المسنونات (خمس العيدان) أي صلاة عيد الفطر وعيد الأضحى (والكسوفان) أي صلاة كسوف الشمس وخسوف القمر (والاستسقاء) أي صلاته",
+        "makna_gandul": "Lan utawi piro-piro sholat sunnah (lan ing dalem sebagian naskah: al-masnunat) iku lima: sholat riyaya loro (yaiku sholat riyaya idul fitri lan idul adha), lan sholat gerhana loro (yaiku sholat gerhana srengenge lan rembulan), lan sholat istisqa' (nyuwun udan).",
+        "translation": "Dan sholat-sholat sunnah ada lima: dua sholat hari raya (Idul Fitri dan Idul Adha), dua sholat gerhana (gerhana matahari dan bulan), dan sholat istisqa'."
+      },
+      {
+        "id": 2,
+        "arabic": "(والسنن التابعة للفرائض) ويعبر عنها أيضاً بالسنة الراتبة وهي (سبع عشرة ركعة ركعتا الفجر وأربع قبل الظهر وركعتان بعده وأربع قبل العصر وركعتان بعد المغرب وثلاث بعد العشاء يوتر بواحدة منهن) والواحدة هي أقل الوتر وأكثره إحدى عشرة ركعة",
+        "makna_gandul": "Lan piro-piro sunnah kang ngikut ing piro-piro fardhu (lan diibaratake saking sunnah tabiah kelawan sunnah راتبة), lan utawi ratibah iku pitulas rakaat: rong rakaat sholat subuh, lan patang rakaat sak durunge dzuhur, lan rong rakaat sak wise dzuhur, lan patang rakaat sak durunge ashar, lan rong rakaat sak wise maghrib, lan telung rakaat sak wise isya' kelawan masehi witir kelawan salah siji saking telu.",
+        "translation": "Dan sunnah-sunnah yang mengikuti fardhu (disebut juga sunnah ratibah) yaitu tujuh belas rakaat: dua rakaat fajar (subuh), empat rakaat sebelum Dzuhur, dua rakaat setelahnya, empat rakaat sebelum Ashar, dua rakaat setelah Maghrib, dan tiga rakaat setelah Isya' dengan melakukan witir salah satunya."
+      },
+      {
+        "id": 3,
+        "arabic": "ووقته بين صلاة العشاء وطلوع الفجر، فلو أوتر قبل العشاء عمداً، أو سهواً، لم يعتد به، والراتب المؤكد من ذلك، كله عشر ركعات قبل الصبح، وركعتان قبل الظهر وركعتان بعدها، وركعتان بعد المغرب، وركعتان بعد العشاء",
+        "makna_gandul": "Lan utawi wektune witir iku ing antarane sholat isya' lan metune fajar. Moko lamun witir sopo manjing sak durunge isya' kelawan sengaja utawa kelap-kelip (lali), moko ora dianggep opo witir. Lan utawi ratib muakkad saking mengkono kabeh iku sepuluh rakaat: rong rakaat sak durunge subuh, rong rakaat sak durunge dzuhur, rong rakaat sak wise, rong rakaat sak wise maghrib, lan rong rakaat sak wise isya'.",
+        "translation": "Waktunya antara sholat Isya' dan terbit fajar. Jika witir sebelum Isya' secara sengaja atau lupa, maka tidak dianggap. Dan rawatib muakkad dari semua itu ada sepuluh rakaat: dua rakaat sebelum Subuh, dua rakaat sebelum Dzuhur, dua rakaat setelahnya, dua rakaat setelah Maghrib, dan dua rakaat setelah Isya'."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Sholat Sunnah Muakkad Ghairu Tabi'ah",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(وثلاث نوافل مؤكدات) غير تابعة للفرائض أحدها (صلاة الليل) والنفل المطلق في الليل أفضل من النفل المطلق في النهار، والنفل وسط الليل أفضل ثم آخره أفضل، وهذا لمن قسم الليل أثلاثاً",
+        "makna_gandul": "Lan telung sholat sunnah muakkad kang ora ngikut fardhu: salah sijine iku sholat wengi. Lan utawi sholat sunnah mutlak ing dalem wengi iku luwih utomo tinimbang sunnah mutlak awan, lan sholat sunnah ing tengah wengi iku luwih utomo banjur mburine wengi iku luwih utomo, utawi mangkono iku keduwe wong kang mbagi wengi dadi telung bagean.",
+        "translation": "Dan tiga sholat sunnah muakkad yang tidak mengikuti sholat fardhu: pertama sholat malam. Sunnah mutlak di malam hari lebih utama dibanding siang hari, sunnah di tengah malam lebih utama kemudian akhir malam lebih utama, bagi yang membagi malam menjadi tiga bagian."
+      },
+      {
+        "id": 2,
+        "arabic": "(و) الثاني (صلاة الضحى) وأقلها ركعتان وأكثرها اثنتا عشرة ركعة وقتها من ارتفاع الشمس إلى زوالها كما قاله النووي في التحقيق وشرح المهذب",
+        "makna_gandul": "Lan utawi kaping pindo iku sholat dhuha. Lan utawi paling sithike dhuha iku rong rakaat, lan paling akehe dhuha iku rolas rakaat. Lan utawi wektune dhuha iku saking munggahe srengenge tumekaingsun asor (zawal), kaya ucapan Imam Nawawi ing dalem kitab Tahqiq lan Syarah Al-Muhadzdzab.",
+        "translation": "Kedua adalah sholat dhuha, paling sedikit dua rakaat dan paling banyak dua belas rakaat. Waktunya dari terbit matahari hingga condongnya matahari, sebagaimana dikatakan Imam Nawawi dalam At-Tahqiq dan Syarah Al-Muhadzdzab."
+      },
+      {
+        "id": 3,
+        "arabic": "(و) الثالث (صلاة التراويح) وهي عشرون ركعة بعشر تسليمات في كل ليلة من رمضان وجملتها خمس ترويحات، وينوي الشخص بكل ركعتين منها سنة التراويح، وقيام رمضان، ولو صلى أربع ركعات منها بتسليمة واحدة لم تصح ووقتها بين صلاة العشاء وطلوع الفجر.",
+        "makna_gandul": "Lan utawi kaping telu iku sholat tarawih. Lan utawi tarawih iku patang likur rakaat (rong puluh rakaat) kelawan sepuluh salam ing dalem saben wengi saking wulan Ramadhan, lan utawi gemblengane tarawih iku lima tarawihan. Lan niat sopo wong ing dalem saben rong rakaat saking tarawih kelawan sunnah tarawih lan qiyam Ramadhan. Lan lamun sholat sopo wong ing patang rakaat saking tarawih kelawan siji salam moko ora sah. Lan utawi wektune tarawih iku ing antarane isya' lan metune fajar.",
+        "translation": "Ketiga adalah sholat tarawih, yaitu dua puluh rakaat dengan sepuluh kali salam pada setiap malam Ramadhan, keseluruhannya ada lima tarwihah (istirahat). Seseorang berniat pada setiap dua rakaat darinya dengan niat sunnah tarawih dan qiyam Ramadhan. Jika ia sholat empat rakaat sekaligus dengan satu salam maka tidak sah. Waktunya antara sholat Isya' dan terbit fajar."
+      }
+    ]
   }
+]
