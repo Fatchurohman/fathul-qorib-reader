@@ -345,15 +345,150 @@
       }
     ]
   },
-  {
-    "fashl_title": "Waktu Makruh Untuk Sholat",
+    {
+    "fashl_title": "Fashl: Waktu Makruh Untuk Sholat",
     "content_items": [
       {
         "id": 1,
-        "arabic": "(فصل): في الأوقات التي تكره الصلاة فيها تحريما كما في الروضة، وشرح المهذب هنا وتنزيهاً كما في التحقيق... (وخمسة أوقات لا يصلي فيها إلا صلاة لها سبب)",
-        "makna_gandul": "Fashl: Ing dalem nerangake piro-piro wektu kang dimakruhkake sholat ing dalem wektu mau kelawan makruh tahrim... Lan ana limang wektu sing ora oleh sholat ing dalem wektu mau kejaba sholat sing duwe sebab.",
-        "translation": "Pasal: Menerangkan waktu-waktu yang dimakruhkan padanya sholat secara tahrim sebagaimana dalam Ar-Raudhah... Ada lima waktu yang tidak boleh sholat padanya kecuali sholat yang mempunyai sebab."
+        "arabic": "(فصل): في الأوقات التي تكره الصلاة فيها تحريماً (وخمسة أوقات لا يصلى فيها إلا صلاة لها سبب) متقدم أو مقارن كفائتة وكسوف وتحية مسجد",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake piro-piro wektu kang dimakruhkake sholat ing dalem wektu mau kelawan makruh tahrim. Lan utawi limang wektu iku ora kena sholat ing dalem wektu mau kejaba sholat kang duwe sebab (kayata qadha sholat, gerhana, utawa tahiyyatul masjid).",
+        "translation": "Pasal: Menerangkan waktu-waktu yang diharamkan/dimakruhkan sholat padanya. Ada lima waktu yang tidak boleh melakukan sholat di dalamnya kecuali sholat yang memiliki sebab (baik sebab yang mendahului atau bersamaan, seperti sholat qadha, gerhana, dan tahiyyatul masjid)."
+      },
+      {
+        "id": 2,
+        "arabic": "أحدها (بعد صلاة الصبح حتى تطلع الشمس) والثاني (عند طلوعها حتى تتكامل وترتفع قدر رمح) في رأي العين والثالث (إذا استوت حتى تزول) إلا يوم الجمعة",
+        "makna_gandul": "Utawi salah sijine iku sakwise sholat Subuh nganti mletheke srengenge. Lan kaping pindo nalika mletheke srengenge nganti sampurna lan munggah ukuran sak tumbak. Lan kaping telu nalika srengenge pas ing tengah langit (istiwa') nganti lingsir, kejaba dina Jumat.",
+        "translation": "Pertama, setelah sholat Subuh hingga matahari terbit. Kedua, saat matahari terbit hingga sempurna dan naik setinggi satu tombak menurut pandangan mata. Ketiga, saat matahari tepat di tengah langit (istiwa') hingga tergelincir, kecuali pada hari Jumat."
+      },
+      {
+        "id": 3,
+        "arabic": "والرابع (بعد صلاة العصر حتى تغرب الشمس) والخامس (عند الغروب حتى يتكامل غروبها) أي عند اصفرارها وميلها للغروب",
+        "makna_gandul": "Lan kaping papat sakwise sholat Ashar nganti surupe srengenge. Lan kaping lima nalika arep surup (kuning srengengene) nganti sampurna surupe.",
+        "translation": "Keempat, setelah sholat Ashar hingga matahari terbenam. Kelima, saat matahari mulai menguning menjelang terbenam hingga terbenam secara sempurna."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Sholat Berjamaah",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في صلاة الجماعة (وصلاة الجماعة سنة مؤكدة) في الفرائض غير الجمعة، وقيل فرض كفاية (وعلى المأموم أن ينوي الائتمام) أو الاقتداء (دون الإمام) فلا يشترط في صحة صلاته نية الإمامة إلا في الجمعة والمعادة",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake sholat jamaah. Lan utawi sholat jamaah iku sunnah muakkad (lan sebagian pendapat fardhu kifayah). Lan wajib ing atase makmum opo yen niat makmum, ora wajib ing atase imam (kejaba sholat Jumat lan sholat mu'adah).",
+        "translation": "Pasal: Tentang sholat berjamaah. Sholat berjamaah hukumnya sunnah muakkad pada sholat fardhu selain Jumat (dan menurut pendapat lain fardhu kifayah). Makmum wajib berniat mengikuti imam, sedangkan imam tidak wajib berniat menjadi imam kecuali pada sholat Jumat dan sholat yang diulang."
+      },
+      {
+        "id": 2,
+        "arabic": "(ويجوز أن يأتم الحر بالعبد والبالغ بالمراهق ولا تصح قدوة رجل بامرأة ولا قارئ بأمي) وهو من يخل بفاتحة أو حرف منها",
+        "makna_gandul": "Lan wenang opo yen makmum sopo wong merdeka maring budak, lan wong baligh maring bocah kang parek baligh. Lan ora sah opo makmume wong lanang maring wong wadon, lan ora sah wong kang bisa moco Fatihah maring wong ummi (kang ora bisa moco Fatihah).",
+        "translation": "Boleh orang merdeka bermakmum kepada budak, dan orang baligh kepada anak yang mendekati baligh. Namun tidak sah laki-laki bermakmum kepada perempuan, dan tidak sah orang yang fasih membaca Al-Fatihah bermakmum kepada orang ummi (yang rusak bacaan Fatihahnya)."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Sholat Musafir (Qashar & Jamak)",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في صلاة المسافر (ويجوز للمسافر قصر الصلاة الرباعية) كالظهر والعصر والعشاء (بخمس شرائط) أحدها (أن يكون سفره في غير معصية) والثاني (أن تكون مسافته ستة عشر فرسخاً) والثالث (أن يكون مؤدياً للصلاة الرباعية) والرابع (أن ينوي القصر مع الإحرام) والخامس (أن لا يأتم بمقيم)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake sholate musafir. Lan wenang keduwe wong lelungan opo ngqashar (nyingkat) sholat kang papat rakaat kelawan limang syarat: lelungan dudu maksiat, jarake nembelas farsakh (kurang luwih 82 km), sholat papat rakaat kang dilakoni ing wektune, niat qashar bareng takbiratul ihram, lan ora makmum maring wong mukim.",
+        "translation": "Pasal: Tentang sholat musafir. Musafir boleh mengqashar (meringkas menjadi 2 rakaat) sholat yang empat rakaat (Zuhur, Ashar, Isya) dengan lima syarat: perjalanan bukan untuk maksiat, jarak minimal 16 farsakh (±82 km), melaksanakan sholat empat rakaat pada waktunya, berniat qashar saat takbiratul ihram, dan tidak bermakmum kepada orang mukim."
+      },
+      {
+        "id": 2,
+        "arabic": "(ويجوز للمسافر) سفراً طويلاً مباحاً (أن يجمع بين الظهر والعصر في وقت أيهما شاء، وبين المغرب والعشاء في وقت أيهما شاء) تقديماً وتأخيراً (ويجوز للحاضر في المطر أن يجمع بينهما في وقت الأولى منهما)",
+        "makna_gandul": "Lan wenang keduwe musafir opo njamak (nglumpukake) antarane Zuhur lan Ashar ing wektu salah sijine, lan antarane Maghrib lan Isya ing wektu salah sijine (taqdim utawa ta'khir). Lan wenang keduwe wong mukim ing nalika udan opo njamak ing wektu kang kawitan (jamak taqdim).",
+        "translation": "Musafir (dengan perjalanan jauh yang mubah) boleh menjamak sholat Zuhur dengan Ashar, serta Maghrib dengan Isya, baik di waktu pertama (jamak taqdim) maupun kedua (jamak ta'khir). Bagi orang mukim saat hujan deras, boleh menjamak keduanya hanya di waktu pertama (jamak taqdim)."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Sholat Jumat",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في صلاة الجمعة (وشرائط وجوب الجمعة سبعة أشياء الإسلام والبلوغ والعقل والحرية والذكورية والصحة والاستيطان) فلا تجب على كافر وصبي ومجنون ورقيق وأنثى ومريض ومسافر",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake sholat Jumat. Lan utawi piro-piro syarate wajibe Jumat iku pitu perkara: Islam, baligh, duwe akal, merdeka, lanang, sehat, lan manggon tetep (mukim).",
+        "translation": "Pasal: Tentang sholat Jumat. Syarat wajib Jumat ada tujuh perkara: Islam, baligh, berakal, merdeka, laki-laki, sehat, dan menetap (bermukim). Maka tidak wajib atas orang kafir, anak kecil, orang gila, budak, perempuan, orang sakit, dan musafir."
+      },
+      {
+        "id": 2,
+        "arabic": "(وشرائط فعلها) أي صحتها (ثلاثة أن تكون البلد مصراً أو قرية وأن يكون العدد أربعين من أهل الجمعة وأن يكون الوقت باقياً) وهو وقت الظهر (وفرائضها ثلاثة خطبتان يقوم فيهما ويجلس بينهما وأن تصلى ركعتين في جماعة)",
+        "makna_gandul": "Lan utawi piro-piro syarate sahe Jumat iku telu: panggonane arupa kutha utawa desa, cacahe jamaah patang puluh saking ahli Jumat, lan wektune Zuhur isih ana. Lan utawi fardhune Jumat iku telu: khutbah loro kang ngadeg ing dalem karone lan lungguh ing antarane, lan sholat rong rakaat kelawan berjamaah.",
+        "translation": "Syarat sah pelaksanaan Jumat ada tiga: dilaksanakan di wilayah kota atau desa, dihadiri minimal 40 orang ahli Jumat, dan masih dalam waktu Zuhur. Sedangkan fardhunya ada tiga: dua khutbah dengan berdiri dan duduk di antara keduanya, serta sholat dua rakaat secara berjamaah."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Sholat Dua Hari Raya (Idul Fitri & Idul Adha)",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في صلاة العيدين (وصلاة العيدين سنة مؤكدة وهي ركعتان يكبر في الأولى سبعاً سوى تكبيرة الإحرام وفي الثانية خمساً سوى تكبيرة القيام ويخطب بعدهما خطبتين يكبر في الأولى تسعاً وفي الثانية سبعاً)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake sholat riyaya loro. Lan utawi sholat riyaya loro iku sunnah muakkad, yaiku rong rakaat: takbir ing rakaat kawitan ping pitu saliyane takbiratul ihram, lan ing rakaat kaping pindo ping lima saliyane takbir ngadeg. Banjur khutbah rong khutbah, takbir ing khutbah kawitan ping sanga lan kaping pindo ping pitu.",
+        "translation": "Pasal: Tentang sholat dua hari raya. Sholat Idul Fitri dan Idul Adha hukumnya sunnah muakkad, terdiri dari dua rakaat: bertakbir 7 kali di rakaat pertama (selain takbiratul ihram) dan 5 kali di rakaat kedua (selain takbir berdiri). Setelahnya membaca dua khutbah dengan 9 takbir di khutbah pertama dan 7 takbir di khutbah kedua."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Sholat Gerhana Matahari & Bulan",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في صلاة الكسوف (وصلاة الكسوف سنة مؤكدة فإن فاتت لم تقض ويصلي لكسوف الشمس وخسوف القمر ركعتين في كل ركعة قيامان يطيل القراءة فيهما وركوعان يطيل التسبيح فيهما دون السجود ويخطب بعدهما خطبتين)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake sholat gerhana. Lan utawi sholat gerhana iku sunnah muakkad, lamun keliwat mongko ora diqadha. Lan sholat rong rakaat, ing dalem saben rakaat ana rong ngadeg kang didawakake wacane lan rong ruku' kang didawakake tasbihe, banjur khutbah loro ing sakwise.",
+        "translation": "Pasal: Tentang sholat gerhana. Sholat gerhana hukumnya sunnah muakkad dan tidak diqadha jika terlewat. Dilaksanakan dua rakaat untuk gerhana matahari maupun bulan; setiap rakaat terdiri dari dua kali berdiri (memanjangkan bacaan) dan dua kali rukuk (memanjangkan tasbih), lalu ditutup dengan dua khutbah."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Sholat Istisqa' (Minta Hujan)",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في صلاة الاستسقاء (وصلاة الاستسقاء مسنونة فيأمرهم الإمام بالتوبة والصدقة والخروج من المظالم ومصالحة الأعداء وصيام ثلاثة أيام ثم يخرج بهم في اليوم الرابع في ثياب بذلة واستكانة وتضرع ويصلي بهم ركعتين كصلاة العيدين ثم يخطب بعدهما ويحول رداءه ويكثر من الدعاء والاستغفار)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake sholat istisqa' (nyuwun udan). Lan sholat istisqa' iku sunnah. Mongko mrentah sopo imam maring masyarakat kelawan taubat, sedekah, ngilangake kezhaliman, rukun karo musuh, lan pasa telung dina. Banjur metu ing dina kaping papat nganggo klambi biasa lan andhap asor, sholat rong rakaat kaya sholat Id, banjur khutbah lan malik selendange sarta ngakehake donga lan istighfar.",
+        "translation": "Pasal: Tentang sholat Istisqa' (memohon hujan). Hukumnya sunnah. Imam memerintahkan warga untuk bertaubat, bersedekah, mengembalikan hak orang yang dizalimi, berdamai, dan berpuasa 3 hari. Pada hari ke-4 keluar dengan pakaian sederhana dan penuh kerendahan hati, sholat 2 rakaat seperti sholat Id, lalu berkhutbah sambil membalik selendang serta memperbanyak doa dan istighfar."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Sholat Khauf (Dalam Keadaan Perang/Takut)",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في صلاة الخوف (وصلاة الخوف على ثلاثة أضرب) أحدها (أن يكون العدو في غير جهة القبلة) فيفرقهم الإمام فرقتين، فرقة في وجه العدو وفرقة خلفه (والثاني أن يكون في جهة القبلة) فيصفهم الإمام صفين ويحرم بهم جميعاً (والثالث أن يكون في شدة الخوف والتحام الحرب فيصلي كيف أمكنه راجلاً أو راكباً مستقبل القبلة وغير مستقبلها)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake sholat khauf (wedi ing perang). Lan utawi sholat khauf iku ana telung werna: kaping pisan musuh dudu ing arah kiblat (imam mbagi rong kelompok), kaping pindo musuh ing arah kiblat (imam nata rong shaf), lan kaping telu nalika perang banget rame mongko sholat sak bisane mlaku utawa nunggang, madhep kiblat utawa ora.",
+        "translation": "Pasal: Tentang sholat Khauf. Ada tiga cara: pertama, musuh berada di selain arah kiblat (imam membagi pasukan menjadi dua kelompok bergantian); kedua, musuh berada di arah kiblat (imam membariskan dua shaf dan takbir bersama); ketiga, saat perang berkecamuk hebat, maka sholat semampunya baik berjalan maupun berkendara, menghadap kiblat atau tidak."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Hukum Pakaian Sutera & Perhiasan Emas",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في حكم اللباس (ويحرم على الرجال لبس الحرير والتختم بالذهب ويحل للنساء وقليل الذهب وكثيره في التحريم سواء وإذا كان بعض الثوب إبريسماً وبعضه قطناً أو كتاناً جاز لبسه ما لم يكن الإبريسم غالباً)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake hukum sandhangan. Lan haram ing atase wong lanang opo nganggo sutra lan nganggo ali-ali emas, lan halal keduwe wong wadon. Lan sithik utawa akehe emas iku podo ing dalem harame. Lamun klambi campur sutra lan katun, wenang dienggo selagine sutrane ora luwih akeh.",
+        "translation": "Pasal: Tentang hukum pakaian. Haram bagi laki-laki memakai kain sutera dan cincin emas, namun halal bagi perempuan. Sedikit maupun banyak emas sama-sama haram bagi laki-laki. Jika pakaian terbuat dari campuran sutera dan katun/linen, boleh dipakai selama bahan suteranya tidak lebih dominan."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Pengurusan & Sholat Jenazah (Penutup Kitab Shalat)",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في أحكام الميت (ويلزم في الميت) المسلم غير الشهيد (أربعة أشياء غسله وتكفينه والصلاة عليه ودفنه) وفعل هذه الأربعة فرض كفاية (واثنان لا يغسلان ولا يصلى عليهما الشهيد في معركة المشركين والسقط الذي لم يستهل صارخاً)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake hukume mayit. Lan wajib (fardhu kifayah) ing dalem mayit muslim saliyane syahid opo papat perkara: ngedusi, ngafani, nyolati, lan ngubur. Lan wong loro kang ora didusi lan ora disolati yaiku wong syahid ing medan perang nglawan kafir lan bayi keluron kang ora nangis nalika lair.",
+        "translation": "Pasal: Tentang hukum jenazah. Wajib (fardhu kifayah) atas jenazah muslim selain syahid empat perkara: memandikan, mengafani, menyolati, dan menguburkan. Ada dua orang yang tidak dimandikan dan tidak disolati: syahid di medan perang melawan orang musyrik, dan bayi keguguran yang lahir tanpa tanda kehidupan."
+      },
+      {
+        "id": 2,
+        "arabic": "(ويكبر عليه أربع تكبيرات يقرأ الفاتحة بعد الأولى ويصلي على النبي صلى الله عليه وسلم بعد الثانية ويدعو للميت بعد الثالثة... ويسلم بعد الرابعة)",
+        "makna_gandul": "Lan takbir ing atase mayit kelawan papat takbiran: moco Fatihah sakwise takbir kawitan, moco sholawat maring Nabi sakwise takbir kaping pindo, ndongakake mayit sakwise takbir kaping telu, lan salam sakwise takbir kaping papat.",
+        "translation": "Dalam sholat jenazah bertakbir empat kali: membaca Al-Fatihah setelah takbir pertama, membaca shalawat atas Nabi setelah takbir kedua, mendoakan jenazah setelah takbir ketiga, dan mengucapkan salam setelah takbir keempat."
       }
     ]
   }
-]
+
