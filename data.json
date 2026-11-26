@@ -47,6 +47,170 @@
     ]
   },
   {
+    "fashl_title": "Fashl: Menyamak Kulit Bangkai & Wadah Emas Perak",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في ذكر شيء من الأعيان المتنجسة وما يطهر منها بالدباغ وما لا يطهر (وجلود الميتة) كلها (تطهر بالدباغ) سواء في ذلك ميتة مأكول اللحم وغيره (إلا جلد الكلب والخنزير وما تولد منهما أو من أحدهما)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake piro-piro barang najis lan barang kang suci kelawan disamak. Lan utawi piro-piro kulite bathang sekabehane iku dadi suci opo kulit kelawan disamak, kejaba kulite asu lan celeng lan hewan kang lair saking karone utawa salah sijine.",
+        "translation": "Pasal: Menerangkan benda-benda najis dan yang menjadi suci dengan disamak. Semua kulit bangkai menjadi suci dengan disamak (baik hewan yang halal dimakan maupun tidak), kecuali kulit anjing, babi, dan hewan yang lahir dari keduanya atau salah satunya."
+      },
+      {
+        "id": 2,
+        "arabic": "(وعظم الميتة وشعرها نجس إلا الآدمي) أي فإن عظمه وشعره طاهران (ولا يجوز استعمال أواني الذهب والفضة) لا لرجل ولا لامرأة (ويجوز استعمال غيرهما من الأواني) النفيسة كإناء ياقوت",
+        "makna_gandul": "Lan utawi balunge bathang lan wulune bathang iku najis, kejaba anak Adam (menungsa). Lan ora wenang opo nganggo piro-piro wadah emas lan perak. Lan wenang opo nganggo liyane emas lan perak saking piro-piro wadah kang larang kayata wadah yaqut.",
+        "translation": "Tulang dan bulu bangkai hukumnya najis, kecuali milik manusia. Dan tidak boleh menggunakan wadah dari emas dan perak (baik bagi laki-laki maupun perempuan), namun boleh menggunakan wadah selain keduanya meskipun mahal seperti wadah permata yaqut."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Hukum Bersiwak",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في استعمال آلة السواك وهو من سنن الوضوء (والسواك مستحب في كل حال) ولا يكره تنزيهاً (إلا بعد الزوال للصائم) فرضاً كان الصوم أو نفلاً وتزول الكراهة بغروب الشمس",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake nganggo piranti siwak. Lan utawi siwak iku disunnahake ing dalem saben-saben tingkah, kejaba ing sakwise lingsir srengenge keduwe wong kang pasa. Lan ilang opo makruhe kelawan surupe srengenge.",
+        "translation": "Pasal: Tentang menggunakan siwak. Bersiwak hukumnya sunnah dalam setiap keadaan, kecuali setelah tergelincirnya matahari (waktu Zuhur) bagi orang yang berpuasa (baik puasa wajib maupun sunnah), dan kemakruhan itu hilang saat matahari terbenam."
+      },
+      {
+        "id": 2,
+        "arabic": "(وهو) أي السواك (في ثلاثة مواضع أشد استحباباً) من غيرها أحدها (عند تغير الفم من أزم) أي سكوت طويل (وغيره) كأكل ذي ريح كريه (وعند القيام من النوم وعند القيام إلى الصلاة) فرضاً كانت أو نفلاً",
+        "makna_gandul": "Lan utawi siwak ing dalem telung panggonan iku luwih banget sunnahe: kaping pisan nalika owahe cangkem sebab meneng suwe utawa liyane, kaping pindo nalika tangi saking turu, lan kaping telu nalika arep ngadeg sholat.",
+        "translation": "Bersiwak sangat ditekankan kesunnahannya pada tiga keadaan: pertama ketika berubahnya bau mulut karena diam terlalu lama atau lainnya (seperti makan makanan berbau tajam), kedua ketika bangun tidur, dan ketiga ketika hendak mendirikan sholat."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Fardhu-Fardhu Wudhu",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في فروض الوضوء (وفروض الوضوء ستة أشياء) أحدها (النية) وحقيقتها شرعاً قصد الشيء مقترناً بفعله وتكون النية (عند غسل) أول جزء من (الوجه)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake piro-piro fardhune wudhu. Lan utawi piro-piro fardhune wudhu iku enem perkara. Utawi salah sijine iku niat, lan ono opo niat iku nalika mbasuh kawitane rai.",
+        "translation": "Pasal: Menerangkan fardhu-fardhu wudhu. Fardhu wudhu ada enam perkara. Pertama adalah niat, yang secara syarak artinya menyengaja sesuatu disertai perbuatannya, dan dilakukan saat membasuh bagian awal wajah."
+      },
+      {
+        "id": 2,
+        "arabic": "(والثاني غسل) جميع (الوجه) وحدّه طولاً ما بين منابت شعر الرأس غالباً وآخر اللحيين، وعرضاً ما بين الأذنين (والثالث غسل اليدين مع المرفقين) فإن لم يكن له مرفقان اعتبر قدرهما",
+        "makna_gandul": "Lan utawi kaping pindo iku mbasuh sekabehane rai, watese dawane antarane thukule rambut sirah nganti janggut, lan ambane antarane kuping loro. Lan utawi kaping telu iku mbasuh tangan loro sarta sikut loro.",
+        "translation": "Kedua, membasuh seluruh wajah (batas panjangnya dari tempat tumbuh rambut kepala hingga ujung dagu, lebarnya antara kedua telinga). Ketiga, membasuh kedua tangan beserta kedua siku."
+      },
+      {
+        "id": 3,
+        "arabic": "(والرابع مسح بعض الرأس) من ذكر أو أنثى أو مسح بعض شعر في حد الرأس (والخامس غسل الرجلين مع الكعبين) إن لم يكن المتوضئ لابساً للخفين (والسادس الترتيب على ما ذكرناه)",
+        "makna_gandul": "Lan utawi kaping papat iku ngusap sebagian sirah utawa sebagian rambut ing watese sirah. Lan utawi kaping lima iku mbasuh sikil loro sarta polok (mata kaki) loro. Lan utawi kaping enem iku tertib ing atase perkara kang wis nutur sopo ingsun.",
+        "translation": "Keempat, mengusap sebagian kepala atau sebagian rambut di batas kepala. Kelima, membasuh kedua kaki beserta kedua mata kaki (jika tidak memakai khuf). Keenam, tertib (berurutan) sesuai yang telah disebutkan."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Hal-Hal yang Membatalkan Wudhu",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في نواقض الوضوء (والذي ينقض) أي يبطل (الوضوء ستة أشياء) أحدها (ما خرج من) أحد (السبيلين) أي القبل والدبر من متوضئ حي واضح معتاداً كان الخارج كبول وغائط أو نادراً كدم وحصى",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake piro-piro perkara kang mbatalake wudhu. Lan utawi perkara kang mbatalake wudhu iku enem perkara: kaping pisan barang kang metu saking salah sijine dalan loro (qubul lan dubur).",
+        "translation": "Pasal: Menerangkan hal-hal yang membatalkan wudhu. Perkara yang membatalkan wudhu ada enam: pertama, segala sesuatu yang keluar dari salah satu dua jalan (qubul atau dubur), baik yang biasa seperti kencing dan tinja maupun yang jarang seperti darah atau batu."
+      },
+      {
+        "id": 2,
+        "arabic": "(والنوم على غير هيئة المتمكن) من الأرض بمقعدته (وزوال العقل بسكر أو مرض) كجنون أو إغماء (ولمس الرجل المرأة الأجنبية من غير حائل)",
+        "makna_gandul": "Lan kaping pindo turu ing atase saliyane tingkahe wong kang netepake bokonge ing bumi. Lan kaping telu ilange akal sebab mendem utawa lara. Lan kaping papat gepoke wong lanang ing wong wadon ajnabiyah (dudu mahram) tanpa aling-aling.",
+        "translation": "Kedua, tidur dalam posisi pantat tidak menetap rapat di tempat duduk. Ketiga, hilang akal karena mabuk, gila, atau pingsan. Keempat, bersentuhannya kulit laki-laki dan perempuan bukan mahram tanpa penghalang."
+      },
+      {
+        "id": 3,
+        "arabic": "(ومس فرج الآدمي بباطن الكف) من نفسه أو غيره، ذكراً كان أو أنثى، صغيراً أو كبيراً، حياً أو ميتاً (ومس حلقة دبره على الجديد)",
+        "makna_gandul": "Lan kaping lima ndemek kemaluane anak Adam kelawan njerone telapak tangan. Lan kaping enem ndemek bunderane dubure miturut qoul jadid.",
+        "translation": "Kelima, menyentuh kemaluan manusia dengan telapak tangan bagian dalam (baik milik sendiri maupun orang lain). Keenam, menyentuh lingkar dubur menurut qoul jadid."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Hal-Hal yang Mewajibkan Mandi & Fardhunya",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في موجبات الغسل (والذي يوجب الغسل ستة أشياء ثلاثة تشترك فيها الرجال والنساء وهي التقاء الختانين وإنزال المني والموت) إلا الشهيد (وثلاثة تختص بها النساء وهي الحيض والنفاس والولادة)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake piro-piro perkara kang majibake adus. Lan utawi perkara kang majibake adus iku enem: telu kang sekutuan antarane lanang lan wadon yaiku ketemune khitan loro (jima'), metune mani, lan mati. Lan telu kang khusus keduwe wadon yaiku haid, nifas, lan nglairake.",
+        "translation": "Pasal: Menerangkan hal-hal yang mewajibkan mandi. Ada enam perkara: tiga berlaku bagi laki-laki dan perempuan yaitu berhubungan badan, keluar mani, dan meninggal dunia (selain syahid); serta tiga khusus perempuan yaitu haid, nifas, dan melahirkan."
+      },
+      {
+        "id": 2,
+        "arabic": "(فصل): (وفرائض الغسل ثلاثة أشياء) أحدها (النية) فينوي الجنب رفع الجنابة أو الحدث الأكبر (وإزالة النجاسة إن كانت على بدنه وإيصال الماء إلى جميع الشعر والبشرة)",
+        "makna_gandul": "Lan utawi piro-piro fardhune adus iku telung perkara: kaping pisan niat ngilangake junub utawa hadats gedhe, kaping pindo ngilangake najis lamun ono najis ing badane, lan kaping telu nekakake banyu maring sekabehane rambut lan kulit.",
+        "translation": "Fardhu mandi ada tiga perkara: pertama niat menghilangkan junub atau hadats besar, kedua menghilangkan najis jika ada pada tubuhnya, dan ketiga meratakan air ke seluruh rambut dan kulit."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Tayammum",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في التيمم (وشرائط التيمم خمسة أشياء) أحدها (وجود العذر بسفر أو مرض ودخول وقت الصلاة وطلب الماء) بعد دخول الوقت (وتعذر استعماله) حساً أو شرعاً (والتراب الطاهر) غير المستعمل",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake tayammum. Lan utawi piro-piro syarate tayammum iku lima: anane udzur sebab lelungan utawa lara, mlebu wektu sholat, nggoleki banyu sakwise mlebu wektu, ora kuasane nganggo banyu, lan lebu kang suci.",
+        "translation": "Pasal: Tentang tayammum. Syarat tayammum ada lima: adanya uzur karena safar atau sakit, telah masuk waktu sholat, telah mencari air setelah masuk waktu, tidak mampu menggunakan air (secara fisik atau syarak), dan menggunakan debu yang suci."
+      },
+      {
+        "id": 2,
+        "arabic": "(وفرائضه أربعة أشياء) أحدها (النية) فيستبيح فرض الصلاة (ومسح الوجه ومسح اليدين مع المرفقين والترتيب) بين المسحتين",
+        "makna_gandul": "Lan utawi piro-piro fardhune tayammum iku papat: kaping pisan niat (supaya wenang nglakoni fardhu sholat), kaping pindo ngusap rai, kaping telu ngusap tangan loro sarta sikut loro, lan kaping papat tertib.",
+        "translation": "Fardhu tayammum ada empat: pertama niat (agar diperbolehkan melakukan sholat fardhu), kedua mengusap wajah, ketiga mengusap kedua tangan beserta kedua siku, dan keempat tertib."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Najis dan Cara Mensucikannya",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في إزالة النجاسات (وكل مائع خرج من السبيلين نجس إلا المني) من آدمي أو غيره إلا كلب وخنزير (وغسل جميع الأبوال والأرواث واجب إلا بول الصبي الذي لم يأكل الطعام فإنه يطهر برش الماء عليه)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem ngilangake piro-piro najis. Lan utawi saben-saben barang cuwer kang metu saking dalan loro iku najis kejaba mani. Lan utawi mbasuh sekabehane uyuh lan telek iku wajib kejaba uyuhe bayi lanang kang durung mangan panganan, mongko suci kelawan diciprati banyu.",
+        "translation": "Pasal: Tentang menghilangkan najis. Setiap cairan yang keluar dari dua jalan hukumnya najis kecuali mani. Membasuh semua jenis kencing dan kotoran hukumnya wajib, kecuali kencing bayi laki-laki yang belum makan makanan (selain ASI), maka cukup disucikan dengan memercikkan air."
+      },
+      {
+        "id": 2,
+        "arabic": "(وتغسل) النجاسة (من ولوغ الكلب والخنزير سبع مرات إحداهن بالتراب وتغسل من سائر النجاسات مرة تأتي عليها والثلاث أفضل)",
+        "makna_gandul": "Lan dibasuh opo najis saking jilatane asu lan celeng ping pitu, utawi salah sijine iku kelawan lebu. Lan dibasuh saking sekabehane najis liyane sepisan kang warata, lan ping telu iku luwih utama.",
+        "translation": "Najis akibat jilatan anjing dan babi dibasuh tujuh kali yang salah satunya dicampur dengan tanah/debu. Sedangkan najis lainnya cukup dibasuh sekali hingga hilang sifatnya, dan tiga kali adalah lebih utama."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Syarat Wajib Sholat",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "فصل: وشرائط وجوب الصلاة ثلاثة أشياء. أحدها (الإسلام) فلا تجب الصلاة على الكافر الأصلي...",
+        "makna_gandul": "Utawi iki iku siji fashl (pasal). Lan utawi piro-piro syarate wajibe sholat iku telung perkara. Utawi salah sijine iku Islam...",
+        "translation": "Pasal: Syarat wajib sholat ada tiga perkara. Pertama adalah Islam..."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Sholat-Sholat Sunnah & Rawatib",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(والصلوات المسنونة) وفي بعض النسخ المسنونات (خمس العيدان) أي صلاة عيد الفطر وعيد الأضحى...",
+        "makna_gandul": "Lan utawi piro-piro sholat sunnah iku lima: sholat riyaya loro, lan gerhana loro, lan istisqa'...",
+        "translation": "Dan sholat-sholat sunnah ada lima: dua sholat hari raya, dua sholat gerhana, dan istisqa'."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Sholat Sunnah Muakkad Ghairu Tabi'ah",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(وثلاث نوافل مؤكدات) غير تابعة للفرائض أحدها (صلاة الليل)...",
+        "makna_gandul": "Lan telung sholat sunnah muakkad kang ora ngikut fardhu: salah sijine iku sholat wengi...",
+        "translation": "Dan tiga sholat sunnah muakkad yang tidak mengikuti sholat fardhu: pertama sholat malam..."
+      }
+    ]
+  },
+  {
     "fashl_title": "Rukun-rukun Shalat",
     "content_items": [
       {
@@ -189,39 +353,6 @@
         "arabic": "(فصل): في الأوقات التي تكره الصلاة فيها تحريما كما في الروضة، وشرح المهذب هنا وتنزيهاً كما في التحقيق... (وخمسة أوقات لا يصلي فيها إلا صلاة لها سبب)",
         "makna_gandul": "Fashl: Ing dalem nerangake piro-piro wektu kang dimakruhkake sholat ing dalem wektu mau kelawan makruh tahrim... Lan ana limang wektu sing ora oleh sholat ing dalem wektu mau kejaba sholat sing duwe sebab.",
         "translation": "Pasal: Menerangkan waktu-waktu yang dimakruhkan padanya sholat secara tahrim sebagaimana dalam Ar-Raudhah... Ada lima waktu yang tidak boleh sholat padanya kecuali sholat yang mempunyai sebab."
-      }
-    ]
-  },
-  {
-    "fashl_title": "Syarat Wajib Sholat",
-    "content_items": [
-      {
-        "id": 1,
-        "arabic": "فصل: وشرائط وجوب الصلاة ثلاثة أشياء. أحدها (الإسلام) فلا تجب الصلاة على الكافر الأصلي...",
-        "makna_gandul": "Utawi iki iku siji fashl (pasal). Lan utawi piro-piro syarate wajibe sholat iku telung perkara. Utawi salah sijine iku Islam...",
-        "translation": "Pasal: Syarat wajib sholat ada tiga perkara. Pertama adalah Islam..."
-      }
-    ]
-  },
-  {
-    "fashl_title": "Sholat-Sholat Sunnah & Rawatib",
-    "content_items": [
-      {
-        "id": 1,
-        "arabic": "(والصلوات المسنونة) وفي بعض النسخ المسنونات (خمس العيدان) أي صلاة عيد الفطر وعيد الأضحى...",
-        "makna_gandul": "Lan utawi piro-piro sholat sunnah iku lima: sholat riyaya loro, lan gerhana loro, lan istisqa'...",
-        "translation": "Dan sholat-sholat sunnah ada lima: dua sholat hari raya, dua sholat gerhana, dan istisqa'."
-      }
-    ]
-  },
-  {
-    "fashl_title": "Sholat Sunnah Muakkad Ghairu Tabi'ah",
-    "content_items": [
-      {
-        "id": 1,
-        "arabic": "(وثلاث نوافل مؤكدات) غير تابعة للفرائض أحدها (صلاة الليل)...",
-        "makna_gandul": "Lan telung sholat sunnah muakkad kang ora ngikut fardhu: salah sijine iku sholat wengi...",
-        "translation": "Dan tiga sholat sunnah muakkad yang tidak mengikuti sholat fardhu: pertama sholat malam..."
       }
     ]
   }
