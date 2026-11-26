@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fathul Qorib Reader - Luxury Edition</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -17,12 +20,28 @@
         </div>
     </header>
 
+    <!-- Toolbar Kontrol Ngaji -->
+    <div class="toolbar-container">
+        <div class="toolbar-group">
+            <button id="btn-theme" class="tool-btn" title="Ganti Tema">📜 Tema Kitab Kuning</button>
+            <button id="btn-toggle-gandul" class="tool-btn active" title="Tampilkan/Sembunyikan Makna Gandul">👁️ Makna Gandul</button>
+            <button id="btn-toggle-trans" class="tool-btn active" title="Tampilkan/Sembunyikan Terjemahan">👁️ Terjemahan</button>
+            <button id="btn-guide" class="tool-btn" title="Panduan Kode Makna Gandul">📖 Panduan Gandul</button>
+        </div>
+        <div class="toolbar-group">
+            <span class="font-label">Font Arab:</span>
+            <button id="btn-font-dec" class="tool-btn icon-btn" title="Perkecil Font">A-</button>
+            <button id="btn-font-inc" class="tool-btn icon-btn" title="Perbesar Font">A+</button>
+        </div>
+    </div>
+
     <div class="app-container">
         <!-- Sidebar Daftar Bab Otomatis -->
         <aside class="sidebar">
             <h3>Daftar Bab</h3>
+            <input type="text" id="search-chapter" class="search-input" placeholder="Cari bab...">
             <ul id="chapter-list">
-                <!-- Bab bakal mlebu lan urut ing kene sacara otomatis -->
+                <!-- Bab mlebu otomatis -->
             </ul>
         </aside>
 
@@ -31,12 +50,92 @@
             <section id="reader-container" class="reader-wrapper">
                 <p class="loading-text">Memuat materi kitab...</p>
             </section>
+            <div id="chapter-nav" class="chapter-nav"></div>
         </main>
     </div>
 
     <footer class="app-footer">
         <p>&copy; 2026 Fathul Qorib Reader | All Rights Reserved</p>
     </footer>
+
+    <!-- Modal Panduan Kode Makna Gandul -->
+    <div id="guide-modal" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="guide-title">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="guide-title">📖 Panduan Makna Gandul (Utawi-Iki-Iku)</h2>
+                <button id="btn-close-guide" class="close-modal-btn" aria-label="Tutup">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p class="guide-intro">
+                    Sistem <strong>Makna Gandul</strong> adalah tradisi pesantren untuk menerjemahkan teks Arab sekaligus menandai jabatan kata dalam ilmu <em>Nahwu</em> agar pembaca paham struktur kalimatnya.
+                </p>
+
+                <table class="guide-table">
+                    <thead>
+                        <tr>
+                            <th>Kode</th>
+                            <th>Bacaan Jawa</th>
+                            <th>Jabatan (Nahwu)</th>
+                            <th>Fungsi / Arti</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="code-cell">م</td>
+                            <td><strong>Utawi</strong></td>
+                            <td>Mubtada'</td>
+                            <td>Subjek utama di awal kalimat nominal.</td>
+                        </tr>
+                        <tr>
+                            <td class="code-cell">خ</td>
+                            <td><strong>Iku</strong></td>
+                            <td>Khabar</td>
+                            <td>Predikat / keterangan dari subjek.</td>
+                        </tr>
+                        <tr>
+                            <td class="code-cell">ف</td>
+                            <td><strong>Sopo / Opo</strong></td>
+                            <td>Fa'il</td>
+                            <td>Pelaku (<em>sopo</em> untuk orang, <em>opo</em> untuk benda).</td>
+                        </tr>
+                        <tr>
+                            <td class="code-cell">مف</td>
+                            <td><strong>Ing</strong></td>
+                            <td>Maf'ul Bih</td>
+                            <td>Objek yang dikenai pekerjaan.</td>
+                        </tr>
+                        <tr>
+                            <td class="code-cell">ج</td>
+                            <td><strong>Mongko</strong></td>
+                            <td>Jawab</td>
+                            <td>Jawaban dari kalimat syarat ("jika..., <em>maka</em>...").</td>
+                        </tr>
+                        <tr>
+                            <td class="code-cell">ن</td>
+                            <td><strong>Kang / Sing</strong></td>
+                            <td>Na'at / Shifat</td>
+                            <td>Kata sifat yang menerangkan kata sebelumnya.</td>
+                        </tr>
+                        <tr>
+                            <td class="code-cell">ح</td>
+                            <td><strong>Hale</strong></td>
+                            <td>Hal</td>
+                            <td>Keterangan keadaan ("dalam keadaan...").</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <div class="guide-tips">
+                    <strong>Tips Membaca Fathul Qorib:</strong>
+                    <ul>
+                        <li>Teks Arab yang <strong>disorot warna emas/tebal di dalam kurung (...)</strong> adalah <em>Matan Taqrib</em> (teks inti).</li>
+                        <li>Teks di luar kurung adalah <em>Syarah</em> (penjelasan dari Syaikh Muhammad bin Qasim al-Ghazi).</li>
+                        <li>Kata <strong>"piro-piro"</strong> menandakan bentuk jamak (banyak), sedangkan akhiran <strong>"-e"</strong> menandakan kepemilikan/sandaran (<em>mudhaf</em>).</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <script src="app.js"></script>
 </body>
