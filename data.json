@@ -490,5 +490,124 @@
         "translation": "Dalam sholat jenazah bertakbir empat kali: membaca Al-Fatihah setelah takbir pertama, membaca shalawat atas Nabi setelah takbir kedua, mendoakan jenazah setelah takbir ketiga, dan mengucapkan salam setelah takbir keempat."
       }
     ]
+  },
+  
+    {
+    "fashl_title": "Kitab Ahkamiz Zakat (Harta Wajib Zakat & Zakat Unta)",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "كتاب أحكام الزكاة (تجب الزكاة في خمسة أشياء وهي المواشي والأثمان والزروع والثمار وعروض التجارة) فأما المواشي فتجب الزكاة في ثلاثة أجناس منها وهي الإبل والبقر والغنم",
+        "makna_gandul": "Utawi iki iku kitabe piro-piro hukum zakat. Wajib opo zakat ing dalem limang perkara: hewan ternak (unta, sapi, wedhus), emas perak, tanduran (panganan pokok), woh-wohan (kurma lan anggur), lan barang dagangan.",
+        "translation": "Kitab Hukum-Hukum Zakat. Zakat wajib dikeluarkan pada lima jenis harta: hewan ternak (unta, sapi, dan kambing), emas dan perak, hasil pertanian, buah-buahan, serta harta perdagangan."
+      },
+      {
+        "id": 2,
+        "arabic": "(وشرائط وجوبها ستة أشياء الإسلام والحرية والملك التام والنصاب والحول والسوم) فأما أول نصاب الإبل فخمس وفيها شاة، وفي عشر شاتان، وفي خمس عشرة ثلاث شياه، وفي عشرين أربع شياه، وفي خمس وعشرين بنت مخاض",
+        "makna_gandul": "Lan utawi piro-piro syarate wajibe zakat ternak iku enem: Islam, merdeka, milik sempurna, tekan nishab, tekan haul (setahun), lan digembalakake ing panggonan mubah. Utawi kawitane nishabe unta iku lima, zakate wedhus siji; sepuluh zakate wedhus loro; limalas zakate telu; rong puluh zakate papat; lan selawe zakate unta wadon umur setahun (bintu makhadh).",
+        "translation": "Syarat wajib zakat hewan ternak ada enam: Islam, merdeka, kepemilikan sempurna, mencapai nisab, berlalu satu tahun (haul), dan digembalakan di padang rumput bebas. Nisab awal unta adalah 5 ekor (zakatnya 1 ekor kambing), 10 ekor (2 kambing), 15 ekor (3 kambing), 20 ekor (4 kambing), dan 25 ekor (1 ekor unta betina umur 1 tahun)."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Zakat Sapi & Kambing",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في نصاب البقر (وأول نصاب البقر ثلاثون وفيها تبيع) له سنة (وفي أربعين مسنة) لها سنتان وعلى هذا أبداً فقس في كل ثلاثين تبيع وفي كل أربعين مسنة",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake nishabe sapi. Lan utawi kawitane nishabe sapi iku telung puluh, zakate sapi lanang umur setahun (tabi'). Lan ing dalem patang puluh zakate sapi wadon umur rong taun (musinnah). Lan sak teruse saben telung puluh tabi' lan saben patang puluh musinnah.",
+        "translation": "Pasal: Tentang nisab sapi. Nisab awal sapi adalah 30 ekor, zakatnya 1 ekor sapi jantan umur 1 tahun (tabi'). Pada 40 ekor, zakatnya 1 ekor sapi betina umur 2 tahun (musinnah). Demikian seterusnya berlaku kelipatan tiap 30 dan 40 ekor."
+      },
+      {
+        "id": 2,
+        "arabic": "(فصل): في نصاب الغنم (وأول نصاب الغنم أربعون وفيها شاة جذعة من الضأن أو ثنية من المعز، وفي مائة وإحدى وعشرين شاتان، وفي مائتين وواحدة ثلاث شياه، وفي أربعمائة أربع شياه، ثم في كل مائة شاة)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake nishabe wedhus. Utawi kawitane nishabe wedhus iku patang puluh, zakate wedhus siji (gembel umur setahun utawa jawa umur rong taun). Ing dalem 121 zakate loro, ing dalem 201 zakate telu, ing dalem 400 zakate papat, banjur saben tambah satus zakate tambah siji.",
+        "translation": "Pasal: Tentang nisab kambing. Nisab awal kambing adalah 40 ekor, zakatnya 1 ekor kambing (domba umur 1 tahun atau kambing kacang umur 2 tahun). Pada 121 ekor zakatnya 2 ekor, pada 201 ekor zakatnya 3 ekor, pada 400 ekor zakatnya 4 ekor, lalu setiap bertambah 100 ekor zakatnya bertambah 1 ekor."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Zakat Harta Campuran (Khulthah)",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في الخلطة (والخليطان يزكيان زكاة الواحد بسبع شرائط إذا كان المراح واحداً والمسرح واحداً والمرعى واحداً والفحل واحداً والمشرب واحداً والحالب واحداً وموضع الحلب واحداً)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake campure ternak (khulthah). Lan wong loro kang nyampurake ternake iku zakat kaya zakate wong siji kelawan pitung syarat: kandhange siji, panggonan ngumpulake siji, panggonan angone siji, pejantane siji, panggonan ngombene siji, tukang meres susune siji, lan panggonan merese siji.",
+        "translation": "Pasal: Tentang khulthah (penggabungan ternak). Dua orang yang menggabungkan ternaknya dihitung zakatnya seperti milik satu orang dengan tujuh syarat: satu kandang, satu tempat berkumpul, satu tempat penggembalaan, satu pejantan, satu tempat minum, satu pemerah susu, dan satu tempat pemerahan."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Zakat Emas, Perak, Tambang & Rikaz",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في نصاب الذهب والفضة (ونصاب الذهب عشرون مثقالاً وفيه ربع العشر وهو نصف مثقال وما زاد فبحسابه، ونصاب الورق مائتا درهم وفيه ربع العشر وهو خمسة دراهم وما زاد فبحسابه، ولا يجب في الحلي المباح زكاة)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake nishabe emas lan perak. Utawi nishabe emas iku rong puluh mitsqal (kurang luwih 85 gram), zakate seperempat saking sepuluh (2,5%). Lan nishabe perak iku rong atus dirham (kurang luwih 595 gram), zakate 2,5%. Lan ora wajib zakat ing dalem perhiasan kang mubah (dienggo wadon).",
+        "translation": "Pasal: Tentang nisab emas dan perak. Nisab emas adalah 20 mitsqal (±85 gram), zakatnya 2,5% (setengah mitsqal) dan selebihnya dihitung sesuai kadarnya. Nisab perak adalah 200 dirham (±595 gram), zakatnya 2,5% (5 dirham). Tidak wajib zakat pada perhiasan mubah yang dipakai wanita secara wajar."
+      },
+      {
+        "id": 2,
+        "arabic": "(فصل): (وما استخرج من معادن الذهب والفضة يخرج منه ربع العشر في الحال، وما يوجد من الركاز ففيه الخمس)",
+        "makna_gandul": "Lan barang kang ditokake saking tambang emas lan perak iku ditokake zakate 2,5% saknalika (ora ngenteni setahun). Lan barang kang ditemokake saking rikaz (harta karun pendheman jahiliyah) iku zakate seperlima (20%).",
+        "translation": "Emas dan perak yang dikeluarkan dari hasil tambang wajib dizakati 2,5% seketika (tanpa menunggu haul). Sedangkan rikaz (harta karun peninggalan masa jahiliyah) wajib dikeluarkan zakatnya seperlima (20%)."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Zakat Pertanian (Tanaman & Buah-Buahan)",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في نصاب الزروع والثمار (ونصاب الزروع والثمار خمسة أوسق وهي ألف وستمائة رطل بالعراقي وما زاد فبحسابه، وفيها إن سقيت بماء السماء أو السيح العشر، وإن سقيت بدولاب أو نضح فنصف العشر)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake nishabe tanduran lan woh-wohan. Utawi nishabe iku limang wasaq (kurang luwih 653 kg beras/gandum). Lamun disiram kelawan banyu udan utawa banyu mili alami mongko zakate sepuluh persen (10%), lamun disiram kelawan biaya/mesin/tenaga mongko zakate lima persen (5%).",
+        "translation": "Pasal: Tentang nisab pertanian dan buah-buahan. Nisabnya adalah 5 wasaq (1.600 rithil Irak atau ±653 kg makanan pokok bersih). Jika diairi dengan air hujan atau aliran alami tanpa biaya, zakatnya 10%. Jika diairi dengan alat/mesin atau biaya, zakatnya 5%."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Zakat Perdagangan (Tijarah)",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في زكاة التجارة (وتقوم عروض التجارة عند آخر الحول بما اشتريت به ويخرج من ذلك ربع العشر)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake zakat dagangan. Lan ditaksir (diitung regane) opo barang dagangan ing akhir taun kelawan mata uang kang dienggo tuku, banjur ditokake zakate 2,5% lamun wis tekan nishab emas utawa perak.",
+        "translation": "Pasal: Tentang zakat perdagangan. Barang dagangan dihitung nilainya di akhir tahun (haul) berdasarkan mata uang yang digunakan untuk membelinya, lalu dikeluarkan zakatnya sebesar 2,5% jika telah mencapai nisab emas atau perak."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Zakat Fitrah",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في زكاة الفطر (وتجب زكاة الفطر بثلاثة أشياء الإسلام وبغروب الشمس من آخر يوم من شهر رمضان ووجود الفضل عن قوته وقوت عياله في ذلك اليوم)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake zakat fitrah. Lan wajib opo zakat fitrah kelawan telung perkara: Islam, menangi surupe srengenge ing dina pungkasan wulan Ramadhan, lan duwe kelebihan panganan kanggo awake lan keluargane ing dina riyaya.",
+        "translation": "Pasal: Tentang zakat fitrah. Zakat fitrah wajib dengan tiga syarat: beragama Islam, menemui terbenamnya matahari pada hari terakhir bulan Ramadhan, dan memiliki kelebihan makanan pokok untuk dirinya dan keluarganya pada malam dan hari raya."
+      },
+      {
+        "id": 2,
+        "arabic": "(ويزكي عن نفسه وعمن تلزمه نفقته من المسلمين صاعاً من قوت بلده وقدره خمسة أرطال وثلث بالعراقي)",
+        "makna_gandul": "Lan zakat sopo wong kanggo awake dhewe lan wong kang wajib dinafkahi saking wong Islam kelawan sak sha' (kurang luwih 2,5 - 2,7 kg) saking panganan pokok negarane.",
+        "translation": "Ia wajib mengeluarkan zakat fitrah untuk dirinya sendiri dan setiap muslim yang menjadi tanggungannya sebesar satu sha' (±2,5–2,7 kg) dari makanan pokok negerinya."
+      }
+    ]
+  },
+  {
+    "fashl_title": "Fashl: Golongan Penerima Zakat (Penutup Kitab Zakat)",
+    "content_items": [
+      {
+        "id": 1,
+        "arabic": "(فصل): في قسم الصدقات (وتدفع الزكاة إلى الأصناف الثمانية الذين ذكرهم الله تعالى في كتابه العزيز في قوله تعالى: إنما الصدقات للفقراء والمساكين والعاملين عليها والمؤلفة قلوبهم وفي الرقاب والغارمين وفي سبيل الله وابن السبيل)",
+        "makna_gandul": "Utawi iki iku fashl ing dalem nerangake mbagi zakat. Lan diparingake opo zakat maring wolung golongan kang disebutake Allah ing Al-Qur'an: wong fakir, wong miskin, amil zakat, muallaf, budak mukatab, wong kang duwe utang (gharim), pejuang ing dalane Allah (fisabilillah), lan musafir kang kentekan sangu (ibnu sabil).",
+        "translation": "Pasal: Tentang pembagian zakat. Zakat diberikan kepada delapan golongan yang disebutkan Allah dalam Al-Qur'an: fakir, miskin, amil zakat, muallaf, hamba sahaya yang ingin memerdekakan diri, orang yang berutang (gharim), pejuang di jalan Allah (fisabilillah), dan musafir yang kehabisan bekal (ibnu sabil)."
+      },
+      {
+        "id": 2,
+        "arabic": "(وخمسة لا يجوز دفعها إليهم الغني بمال أو كسب والعبد وبنو هاشم وبنو المطلب والكافر، ومن تلزم المزكي نفقته لا يدفعها إليهم باسم الفقراء والمساكين ويجوز باسم كونهم غزاة وغارمين)",
+        "makna_gandul": "Lan limang golongan ora wenang diparingi zakat: wong sugih sebab harta utawa penggawean, budak, keturunan Bani Hasyim lan Bani Muththalib, lan wong kafir. Lan wong kang wajib dinafkahi ora kena diparingi zakat atas jeneng fakir/miskin.",
+        "translation": "Ada lima golongan yang tidak boleh menerima zakat: orang kaya (baik karena harta maupun penghasilan), budak, keturunan Bani Hasyim dan Bani Muththalib, serta orang kafir. Orang yang wajib dinafkahi oleh muzakki juga tidak boleh diberi zakat atas nama fakir atau miskin."
+      }
+    ]
   }
 ]
